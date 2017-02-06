@@ -1,0 +1,644 @@
+# Vietnamese translation for do
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the do package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: do\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-13 16:36+1000\n"
+"PO-Revision-Date: 2010-12-05 15:17+0000\n"
+"Last-Translator: Nguyễn Hào Khôi <nguyenhaokhoi@yahoo.com.vn>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-09-26 04:32+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:132
+msgid "Always show results window"
+msgstr "Luôn hiển thị cửa sổ kết quả tìm kiếm"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:151
+msgid "<b>Selected Theme</b>"
+msgstr "<b>Diện mạo đã chọn</b>"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:166
+msgid ""
+"<b>Your display is not properly configured for theme and animation support. "
+"To use these features, you must enable compositing.</b>"
+msgstr ""
+"<b>Màn hình của bạn không được cấu hình đúng để hỗ trợ diện mạo và hình "
+"động. Bạn cần bật hiệu ứng tổng hợp (compositing) để sử dụng những chức năng "
+"này.</b>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:52
+msgid "<span size=\"large\"><b>Updated plugins are available!</b></span>"
+msgstr ""
+"<span size=\"large\"><b>Đã có các phần bổ sung mới để cập nhậtật!</b></span>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:128
+msgid "_Install Updates"
+msgstr "_Cài đặt Cập nhật"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:49
+msgid "<b>First-launch Behavior</b>"
+msgstr "<b>Tùy chọn khởi chạy lần đầu</b>"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:69
+msgid "Start GNOME Do at login."
+msgstr "Chạy GNOME Do khi đăng nhập"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:81
+msgid "Hide window on first launch (quiet mode)."
+msgstr "Ẩn cửa sổ khi khởi chạy lần đầu (chế độ ẩn)"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:93
+msgid "Show notification icon"
+msgstr "Hiện biểu tượng trên vùng thông báo"
+
+#: ../Do/gtk-gui/Do.UI.KeybindingsPreferencesWidget.cs:63
+msgid ""
+"To edit a shortcut, double-click it and type a new one.\n"
+"To restore a shortcut to the default, double click and press Backspace."
+msgstr ""
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:62
+msgid "Show:"
+msgstr "Hiện:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:84
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:129
+msgid "_Configure"
+msgstr "_Cấu hình"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:36
+msgid "PluginConfigurationWindow"
+msgstr "CửasổCấuhìnhTrìnhBổsung"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:62
+msgid "<span size=\"large\" weight=\"heavy\">Plugin name here</span>"
+msgstr "<span size=\"large\" weight=\"heavy\">Nhập tên trình bổ sung</span>"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:85
+msgid "page1"
+msgstr "trang1"
+
+#: ../Do/gtk-gui/Do.UI.PreferencesWindow.cs:34
+msgid "GNOME Do Preferences"
+msgstr "Tùy thích cho GNOME Do"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:47
+msgid "Background Color:"
+msgstr "Màu nền:"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:82
+msgid "_Reset"
+msgstr "Đặt _lại"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:101
+msgid "Show window shadow"
+msgstr "Hiện bóng cửa sổ"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:113
+msgid "Animate window"
+msgstr "Hoạt hóa cửa sổ"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:735
+#, csharp-format
+msgid "No results for: {0}"
+msgstr "Không tìm thấy: {0}"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:746
+msgid "Type To Search"
+msgstr "Nhập mục cần tìm:"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:341
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:375
+#: ../Do.Interface.Linux/src/Do.Interface/Do.Interface.Widgets/DefaultItems.cs:57
+msgid "Type to begin searching"
+msgstr "Nhập nội dung để bắt đầu tìm"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:342
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:376
+msgid "Type to start searching."
+msgstr "Nhập nội dung để bắt đầu tìm kiếm."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:89
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:111
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:124
+msgid "<i>Verify and save account information</i>"
+msgstr "<i>Xác thực và lưu lại thông tin tài khoản</i>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:180
+msgid "Don't have an account?"
+msgstr "Bạn không có tài khoản?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:77
+msgid "<b><span size=\"x-large\">There's a Do plugin for that!</span></b>"
+msgstr ""
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:98
+#, csharp-format
+msgid ""
+"A Do plugin for {0} is available for installation. Would you like us to "
+"enable it for you?"
+msgstr ""
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:125
+msgid "Don't ask me about Do plugins again."
+msgstr ""
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:172
+msgid "_Install"
+msgstr ""
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:36
+#, csharp-format
+msgid "Error saving {0}"
+msgstr "Có lỗi xảy ra khi lưu trữ {0}"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:37
+#, csharp-format
+msgid "Key \"{0}\" not found in keyring"
+msgstr "Không tìm thấy mã khóa \"{0}\" trong vòng khóa"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:38
+msgid "gnome-keyring-daemon could not be reached!"
+msgstr "Không truy cập tới được gnome-keyring-daemon!"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:143
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:146
+msgid "Categories"
+msgstr "Phân loại"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:152
+msgid "This application could not be indexed."
+msgstr "Không tạo chỉ mục được cho ứng dụng này."
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:181
+msgid "Exec"
+msgstr "ThựcThi"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:203
+msgid "OnlyShowIn"
+msgstr "ChỉHiệnTrong"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:57
+msgid "Applications"
+msgstr "Ứng dụng"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:61
+msgid "Finds applications in many locations."
+msgstr "Tìm ứng dụng ở các thư mục trên hệ thống."
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:82
+#, csharp-format
+msgid "{0} Application Category"
+msgstr "{0} Phân loại Ứng dụng"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:83
+#, csharp-format
+msgid "Applications in the {0} category"
+msgstr "Ứng dụng loại {0}"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:46
+msgid "GNOME Special Locations"
+msgstr "Các Thư mục Đặc biệt của GNOME"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:51
+msgid "Special locations in GNOME, such as Computer and Network."
+msgstr "Các thư mục đặc biệt của GNOME, như Máy tính và Mạng"
+
+#: ../Do.Platform.Linux/src/Do.Universe/NullApplicationItem.cs:48
+#, csharp-format
+msgid "Error reading {0}."
+msgstr "Có lỗi khi đọc vào {0}."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:43
+#, csharp-format
+msgid "Sign up for {0}"
+msgstr "Đăng ký {0}"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:44
+msgid "Validating..."
+msgstr "Đang xác thực..."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:45
+#, csharp-format
+msgid "Don't have {0}?"
+msgstr "Bạn không có tài khoản {0}?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:46
+msgid "Account validation failed!"
+msgstr "Xác thực tài khoản thất bại!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:47
+msgid "Verify and save account information"
+msgstr "Xác thực và lưu thông tin tài khoản"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:48
+msgid "Account validation succeeded!"
+msgstr "Xác thực tài khoản thành công!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:46
+msgid "What is Do?"
+msgstr ""
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:53
+#, csharp-format
+msgid "What does the {0} plugin do?"
+msgstr ""
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:37
+#: ../Do/src/Do.Core/Controller.cs:146
+msgid "Copy to Clipboard"
+msgstr "Chép vào bộ nhớ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:41
+msgid "Copy current text to clipboard"
+msgstr "Chép văn bản hiện tại vào bộ nhớ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:35
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/EmailContactDetailItem.cs:34
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:41
+msgid "Compose a new email to a friend."
+msgstr "Viết thư mới cho bạn bè"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:38
+msgid "Open"
+msgstr "Mở"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:42
+msgid "Opens many kinds of items."
+msgstr "Mở các kết quả."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:54
+msgid "Open Url"
+msgstr "Mở Liên kết"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:58
+msgid "Opens bookmarks and manually-typed Urls."
+msgstr "Mở trang đánh dấu và gõ liên kết thủ công."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:38
+msgid "Open With..."
+msgstr "Mở bằng..."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:42
+msgid "Opens files in specific applications."
+msgstr "Mở các tập tin bằng ứng dụng đặc thù."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:35
+msgid "Reveal"
+msgstr "Mở thư mục"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:39
+msgid "Reveals a file in the file manager."
+msgstr "Mở thư mục chứa đối tượng này trong bộ quản lý tập tin"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:36
+msgid "Run"
+msgstr "Chạy"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:40
+msgid "Run an application, script, or other executable."
+msgstr "Chạy 1 ứng dụng, văn lệnh, hoặc các tập tin thực thi khác"
+
+#: ../Do/src/Do.Core/Controller.cs:109
+msgid ""
+"<b>Docky is no longer a Do theme!</b>\n"
+"It is now available as a stand-alone application. Your GNOME Do theme has "
+"been reset to Classic. Please feel free to change it in Preferences."
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:133
+msgid "Summon Do"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:137
+msgid "Summon in Text Mode"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:140
+msgid "Enter Text Mode"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:143
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:56
+msgid "Clear"
+msgstr "Xóa"
+
+#: ../Do/src/Do.Core/Controller.cs:148
+msgid "Paste from Clipboard"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:151
+msgid "Previous Pane"
+msgstr "Ô trước"
+
+#: ../Do/src/Do.Core/Controller.cs:153
+msgid "Next Pane"
+msgstr "Ô kế"
+
+#: ../Do/src/Do.Core/Controller.cs:156
+msgid "Previous Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:158
+msgid "Next Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:161
+msgid "First Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:163
+msgid "Last Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:166
+msgid "Previous 5 Results"
+msgstr "5 kết quả trước"
+
+#: ../Do/src/Do.Core/Controller.cs:168
+msgid "Next 5 Results"
+msgstr "5 kết quả kế"
+
+#: ../Do/src/Do.Core/Controller.cs:171
+msgid "Step Out of Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:173
+msgid "Step Into Item"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:176
+msgid "Select Multiple Items"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:1006 ../data/gnome-do.desktop.in.h:2
+msgid "GNOME Do"
+msgstr "GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1014
+msgid "Copyright © 2009 GNOME Do Developers"
+msgstr ""
+
+#: ../Do/src/Do.Core/Controller.cs:1015
+msgid ""
+"Do things as quickly as possible\n"
+"(but no quicker) with your files, bookmarks,\n"
+"applications, music, contacts, and more!"
+msgstr ""
+"Làm việc càng nhanh càng tốt\n"
+"(nhưng không nhanh hơn) với tập tin và mục đánh dấu,\n"
+"ứng dụng, nhạc, liên lạc và nhiều thứ khác của bạn!"
+
+#: ../Do/src/Do.Core/Controller.cs:1019
+msgid "Visit Homepage"
+msgstr "Ghé thăm Trang chủ"
+
+#: ../Do/src/Do.Core/DoAddinInstaller.cs:37
+msgid "Installation cancelled"
+msgstr "Hủy bỏ việc cài đặt"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/CommunityAddinClassifier.cs:36
+msgid "Community Plugins"
+msgstr "Phần bổ xung của cộng đồng"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/GreedyAddinClassifier.cs:34
+msgid "All Plugins"
+msgstr "Tất cả phần bổ xung"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/OfficialAddinClassifier.cs:35
+msgid "Official Plugins"
+msgstr "Phần bổ xung chính thức"
+
+#: ../Do/src/Do.UI/ColorConfigurationWidget.cs:107
+msgid "Appearance"
+msgstr "Diện mạo"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:159
+msgid "Some of the required add-ins were not found"
+msgstr "Không tìm thấy một số phần bổ trợ cần thiết"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:172
+msgid "Installation failed"
+msgstr "Cài đặt thất bại"
+
+#: ../Do/src/Do.UI/GeneralPreferencesWidget.cs:43
+msgid "General"
+msgstr "Tổng quát"
+
+#: ../Do/src/Do.UI/KeybindingsPreferencesWidget.cs:42
+msgid "Keyboard"
+msgstr "Bàn phím"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:49
+msgid "Action"
+msgstr "Hành động"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:56
+msgid "Shortcut"
+msgstr "Phím tắt"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:73
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:101
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:140
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:143
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:159
+msgid "Disabled"
+msgstr ""
+
+#: ../Do/src/Do.UI/ManagePluginsPreferencesWidget.cs:56
+msgid "Plugins"
+msgstr "Phần bổ sung"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:32
+msgid "<b><span size=\"large\">There was an error installing the selected"
+msgstr "<b><span size=\"large\">Có lỗi xảy ra khi cài đặt mục chọn"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:36
+msgid "plugin"
+msgstr "phần bổ sung"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:37
+msgid "plugins"
+msgstr "các phần bổ sung"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:43
+msgid "and "
+msgstr "và "
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:47
+msgid " is not a valid plugin file."
+msgstr " không phải là một tệp phần bổ xung hợp lệ."
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:49
+msgid " are not valid plugin files."
+msgstr " không phải là các tệp phần bổ xung hợp lệ."
+
+#: ../Do/src/Do.Universe/AboutItem.cs:31
+msgid "About Do"
+msgstr "Thông tin về Do"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:35
+msgid "About GNOME Do"
+msgstr "Thông tin về GNOME Do"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:33
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:53
+msgid "Clear Learning"
+msgstr "Làm sạch Quá trình học hỏi"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:37
+msgid "Resets Do's learned usage data."
+msgstr "Làm mới dữ liệu học hỏi của Do."
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:54
+msgid "Are you sure you want to clear Do's learned usage data?"
+msgstr "Bạn có chắc muốn làm sạch dữ liệu học hỏi của  Do?"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:36
+msgid "Donate"
+msgstr "Đóng góp"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:40
+msgid "Support GNOME Do development!"
+msgstr "Hỗ trợ nhóm phát triển GNOME Do!"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:49
+msgid "Internal GNOME Do Items"
+msgstr "Các mục riêng của GNOME Do"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:53
+msgid "Special items relevant to the inner-workings of GNOME Do."
+msgstr ""
+"Nhiều đối tượng đặc biệt có liên hệ tới cơ cấu làm việc bên trong của Gnome "
+"Do."
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:60
+msgid "GNOME Do Item Sources"
+msgstr "Nguồn đối tượng Gnome Do"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:64
+msgid "Item Sources providing all items GNOME Do knows about."
+msgstr "Những nguồn dữ liệu về"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:31
+msgid "Preferences"
+msgstr "Tuỳ thích"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:35
+msgid "Adjust Do's settings, manage plugins, etc."
+msgstr "Điều chỉnh cài đặt Do, quản lý phần bổ xung, ...."
+
+#: ../Do/src/Do.Universe/QuitItem.cs:30
+msgid "Quit"
+msgstr "Thoát"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:34
+msgid "Quit GNOME Do - come back soon!"
+msgstr "Thoát GNOME Do - trở lại sớm!"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:63
+msgid "Selected text"
+msgstr "Văn bản đã chọn"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:67
+msgid "Currently selected text."
+msgstr "Văn bản đang được chọn"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:42
+msgid "No name"
+msgstr "Không tên"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:43
+msgid "No description."
+msgstr "Không có mô tả."
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/AddressContactDetailItem.cs:34
+msgid "Address"
+msgstr ""
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:34
+msgid "Work Phone"
+msgstr ""
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:35
+msgid "Home Phone"
+msgstr ""
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:36
+msgid "Mobile Phone"
+msgstr ""
+
+#: ../data/gnome-do.desktop.in.h:1
+msgid ""
+"Do things as quickly as possible (but no quicker) with your files, "
+"bookmarks, applications, music, contacts, and more!"
+msgstr ""
+"Mở tập tin, đánh dấu, ứng dụng, liên lạc, phát nhạc và mọi điều bạn muốn "
+"làm! Luôn và ngay!"
+
+#: ../data/gnome-do.schemas.in.h:1
+msgid "Always show results window."
+msgstr "Luôn luôn hiện cửa sổ kết quả."
+
+#: ../data/gnome-do.schemas.in.h:2
+msgid ""
+"Changes the appearence of Do. Valid entries are Classic, Glass Frame, and "
+"Mini."
+msgstr ""
+"Thay đổi diện mạo của Do. Những giá trị đúng là Cổ điển, Khung Trong suốt, "
+"và Nhỏ gọn."
+
+#: ../data/gnome-do.schemas.in.h:3
+msgid "Do UI theme"
+msgstr "Diện mạo Giao diện Do"
+
+#: ../data/gnome-do.schemas.in.h:4
+msgid "Do summon keybinding."
+msgstr "Phím tắt gọi Do"
+
+#: ../data/gnome-do.schemas.in.h:5
+msgid "Enable this option to keep Do from popping up as soon as it starts."
+msgstr "Bật tùy chọn này để giữ Do hiển thị ngay khi nó khởi động."
+
+#: ../data/gnome-do.schemas.in.h:6
+msgid "Hide main window when Do starts."
+msgstr "Ẩn cửa sổ  chính khi Do khởi động."
+
+#: ../data/gnome-do.schemas.in.h:7
+msgid "Key used to enter text mode."
+msgstr "Khóa sử dụng để vào chế độ văn bản."
+
+#: ../data/gnome-do.schemas.in.h:8
+msgid "Set this to the character that should be used to enter text mode."
+msgstr "Đặt ký tự để sử dụng vào chế độ văn bản."
+
+#: ../data/gnome-do.schemas.in.h:9
+msgid "Set this to the key command you would like to use to summon Do."
+msgstr "Đặt khóa này làm lệnh bạn sử dụng để gọi Do."
+
+#: ../data/gnome-do.schemas.in.h:10
+msgid "Whether the results window will always show."
+msgstr "Cửa sổ kết quả sẽ luôn luôn hiển thị."

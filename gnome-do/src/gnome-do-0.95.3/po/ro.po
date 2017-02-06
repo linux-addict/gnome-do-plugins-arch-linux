@@ -1,0 +1,654 @@
+# Romanian translation for do
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the do package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: do\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-13 16:36+1000\n"
+"PO-Revision-Date: 2011-09-20 19:57+0000\n"
+"Last-Translator: Ciprian Panaite <Unknown>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-09-26 04:32+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:132
+msgid "Always show results window"
+msgstr "Întotdeauna arată fereastra cu rezultate"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:151
+msgid "<b>Selected Theme</b>"
+msgstr "<b>Tema Selectată</b>"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:166
+msgid ""
+"<b>Your display is not properly configured for theme and animation support. "
+"To use these features, you must enable compositing.</b>"
+msgstr ""
+"<b>Ecranul nu este corect configurat pentru suportul de teme si animații. "
+"Trebuie să activați extensia de alcătuire pentru a utiliza aceste "
+"facilități.</b>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:52
+msgid "<span size=\"large\"><b>Updated plugins are available!</b></span>"
+msgstr ""
+"<span size=\"large\"><b>Sunt disponibile module actualizate!</b></span>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:128
+msgid "_Install Updates"
+msgstr "_Instalează Actualizarile"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:49
+msgid "<b>First-launch Behavior</b>"
+msgstr "<b>Comportamentul la prima lansare</b>"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:69
+msgid "Start GNOME Do at login."
+msgstr "Pornește GNOME Do la autentificare."
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:81
+msgid "Hide window on first launch (quiet mode)."
+msgstr "Ascunde fereastra la prima lansare (mod silențios)."
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:93
+msgid "Show notification icon"
+msgstr "Arată iconița de notificare"
+
+#: ../Do/gtk-gui/Do.UI.KeybindingsPreferencesWidget.cs:63
+msgid ""
+"To edit a shortcut, double-click it and type a new one.\n"
+"To restore a shortcut to the default, double click and press Backspace."
+msgstr ""
+"Pentru a edita o scurtătură, faceți dublu-click și scrieți-o pe cea nouă.\n"
+"Pentru a restaura o scurtătură la modul prestabilit, faceți dublu-click și "
+"apăsați Backspace."
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:62
+msgid "Show:"
+msgstr "Afișează:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:84
+msgid "Search:"
+msgstr "Caută:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:129
+msgid "_Configure"
+msgstr "_Configurare"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:36
+msgid "PluginConfigurationWindow"
+msgstr "FereastaConfigurăriiModulelor"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:62
+msgid "<span size=\"large\" weight=\"heavy\">Plugin name here</span>"
+msgstr "<span size=\"large\" weight=\"heavy\">Numele modulului aici</span>"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:85
+msgid "page1"
+msgstr "pagina1"
+
+#: ../Do/gtk-gui/Do.UI.PreferencesWindow.cs:34
+msgid "GNOME Do Preferences"
+msgstr "Preferințe GNOME Do"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:47
+msgid "Background Color:"
+msgstr "Culoare fundal:"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:82
+msgid "_Reset"
+msgstr "_Resetează"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:101
+msgid "Show window shadow"
+msgstr "Arată umbra ferestrei"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:113
+msgid "Animate window"
+msgstr "Animează fereastra"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:735
+#, csharp-format
+msgid "No results for: {0}"
+msgstr "Nici un rezultat pentru : {0}"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:746
+msgid "Type To Search"
+msgstr "Scrieți pentru a căuta"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:341
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:375
+#: ../Do.Interface.Linux/src/Do.Interface/Do.Interface.Widgets/DefaultItems.cs:57
+msgid "Type to begin searching"
+msgstr "Scrieți pentru a începe căutarea"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:342
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:376
+msgid "Type to start searching."
+msgstr "Scrieți pentru a porni căutarea."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:89
+msgid "Password"
+msgstr "Parolă"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:111
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:124
+msgid "<i>Verify and save account information</i>"
+msgstr "<i>Verifică şi salvează informaţiile contului</i>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:180
+msgid "Don't have an account?"
+msgstr "Nu aveți un cont?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:77
+msgid "<b><span size=\"x-large\">There's a Do plugin for that!</span></b>"
+msgstr "<b><span size=\"x-large\">Există un plugin Do pentru aia!</span></b>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:98
+#, csharp-format
+msgid ""
+"A Do plugin for {0} is available for installation. Would you like us to "
+"enable it for you?"
+msgstr ""
+"Un plugin Do pentru {0} este disponibil pentru instalare. Doriți să vi-l "
+"activăm noi?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:125
+msgid "Don't ask me about Do plugins again."
+msgstr "Nu mă intreba despre plugin-uri Do din nou."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:172
+msgid "_Install"
+msgstr "_Instalează"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:36
+#, csharp-format
+msgid "Error saving {0}"
+msgstr "Eroare la salvarea {0}"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:37
+#, csharp-format
+msgid "Key \"{0}\" not found in keyring"
+msgstr "Cheia \"{0}\" nu a fost găsită pe lanțul de chei"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:38
+msgid "gnome-keyring-daemon could not be reached!"
+msgstr "gnome-keyring-daemon nu a putut fi găsit!"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:143
+msgid "Icon"
+msgstr "Pictogramă"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:146
+msgid "Categories"
+msgstr "Categorii"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:152
+msgid "This application could not be indexed."
+msgstr "Această aplicație nu a putut fi indexată."
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:181
+msgid "Exec"
+msgstr "Execută"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:203
+msgid "OnlyShowIn"
+msgstr "AratăNumaiIn"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:57
+msgid "Applications"
+msgstr "Aplicații"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:61
+msgid "Finds applications in many locations."
+msgstr "Găsește aplicații în multe locații."
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:82
+#, csharp-format
+msgid "{0} Application Category"
+msgstr "{0} Categorie Aplicaţie"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:83
+#, csharp-format
+msgid "Applications in the {0} category"
+msgstr "Applicaţii în categoria {0}"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:46
+msgid "GNOME Special Locations"
+msgstr "Locații Speciale GNOME"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:51
+msgid "Special locations in GNOME, such as Computer and Network."
+msgstr "Locaţii speciale în GNOME, ca Computer sau Reţea."
+
+#: ../Do.Platform.Linux/src/Do.Universe/NullApplicationItem.cs:48
+#, csharp-format
+msgid "Error reading {0}."
+msgstr "Eroare la citirea {0}."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:43
+#, csharp-format
+msgid "Sign up for {0}"
+msgstr "Creați un cont pe {0}"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:44
+msgid "Validating..."
+msgstr "Se validează..."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:45
+#, csharp-format
+msgid "Don't have {0}?"
+msgstr "Nu aveți {0}?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:46
+msgid "Account validation failed!"
+msgstr "Validarea contului a eșuat!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:47
+msgid "Verify and save account information"
+msgstr "Verifică și salvează informațiile contului"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:48
+msgid "Account validation succeeded!"
+msgstr "Validarea contului a avut succes!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:46
+msgid "What is Do?"
+msgstr "Ce este Do?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:53
+#, csharp-format
+msgid "What does the {0} plugin do?"
+msgstr "Care este rolul pluginului {0}?"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:37
+#: ../Do/src/Do.Core/Controller.cs:146
+msgid "Copy to Clipboard"
+msgstr "Copiază în clipboard"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:41
+msgid "Copy current text to clipboard"
+msgstr "Copiază textul curent în clipboard"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:35
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/EmailContactDetailItem.cs:34
+msgid "Email"
+msgstr "Email"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:41
+msgid "Compose a new email to a friend."
+msgstr "Scrie un nou email pentru un prieten."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:38
+msgid "Open"
+msgstr "Deschide"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:42
+msgid "Opens many kinds of items."
+msgstr "Deschide multe tipuri de lucruri."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:54
+msgid "Open Url"
+msgstr "Deschide Url"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:58
+msgid "Opens bookmarks and manually-typed Urls."
+msgstr "Deschide favoritele sau Url-urile introduse manual"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:38
+msgid "Open With..."
+msgstr "Deschide cu..."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:42
+msgid "Opens files in specific applications."
+msgstr "Deschide fişiere în anumite aplicaţii."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:35
+msgid "Reveal"
+msgstr "Arată"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:39
+msgid "Reveals a file in the file manager."
+msgstr "Arată un fişier in administratorul de fişiere."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:36
+msgid "Run"
+msgstr "Porneşte"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:40
+msgid "Run an application, script, or other executable."
+msgstr "Porneşte o aplicaţie, un script, sau un alt executabil."
+
+#: ../Do/src/Do.Core/Controller.cs:109
+msgid ""
+"<b>Docky is no longer a Do theme!</b>\n"
+"It is now available as a stand-alone application. Your GNOME Do theme has "
+"been reset to Classic. Please feel free to change it in Preferences."
+msgstr ""
+"<b>Docky nu mai este o temă Do!</b>\n"
+"Este acum disponibil ca și aplicație independentă. Tema dumneavoastră pentru "
+"GNOME Do a fost restabilită la Classic. Poate fi schimbată fără robleme de "
+"la Preferințe."
+
+#: ../Do/src/Do.Core/Controller.cs:133
+msgid "Summon Do"
+msgstr "Deschideți Do"
+
+#: ../Do/src/Do.Core/Controller.cs:137
+msgid "Summon in Text Mode"
+msgstr "Deschideți în modul text"
+
+#: ../Do/src/Do.Core/Controller.cs:140
+msgid "Enter Text Mode"
+msgstr "Intrați în modul text"
+
+#: ../Do/src/Do.Core/Controller.cs:143
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:56
+msgid "Clear"
+msgstr "Curăță"
+
+#: ../Do/src/Do.Core/Controller.cs:148
+msgid "Paste from Clipboard"
+msgstr "Lipire din clipboard"
+
+#: ../Do/src/Do.Core/Controller.cs:151
+msgid "Previous Pane"
+msgstr "Panoul Precedent"
+
+#: ../Do/src/Do.Core/Controller.cs:153
+msgid "Next Pane"
+msgstr "Panoul Următor"
+
+#: ../Do/src/Do.Core/Controller.cs:156
+msgid "Previous Item"
+msgstr "Elementul anterior"
+
+#: ../Do/src/Do.Core/Controller.cs:158
+msgid "Next Item"
+msgstr "Elementul următor"
+
+#: ../Do/src/Do.Core/Controller.cs:161
+msgid "First Item"
+msgstr "Primul element"
+
+#: ../Do/src/Do.Core/Controller.cs:163
+msgid "Last Item"
+msgstr "Ultimul element"
+
+#: ../Do/src/Do.Core/Controller.cs:166
+msgid "Previous 5 Results"
+msgstr "Precedentele 5 Rezultate"
+
+#: ../Do/src/Do.Core/Controller.cs:168
+msgid "Next 5 Results"
+msgstr "Următoarele 5 Rezultate"
+
+#: ../Do/src/Do.Core/Controller.cs:171
+msgid "Step Out of Item"
+msgstr "Părăsiți elementul"
+
+#: ../Do/src/Do.Core/Controller.cs:173
+msgid "Step Into Item"
+msgstr "Accesați elementul"
+
+#: ../Do/src/Do.Core/Controller.cs:176
+msgid "Select Multiple Items"
+msgstr "Selectează mai multe elemente"
+
+#: ../Do/src/Do.Core/Controller.cs:1006 ../data/gnome-do.desktop.in.h:2
+msgid "GNOME Do"
+msgstr "GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1014
+msgid "Copyright © 2009 GNOME Do Developers"
+msgstr "Copyright © 2009 Dezvoltatori GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1015
+msgid ""
+"Do things as quickly as possible\n"
+"(but no quicker) with your files, bookmarks,\n"
+"applications, music, contacts, and more!"
+msgstr ""
+"Faceți lucrurile pe cât posibil de repede\n"
+"(dar nu mai repede) cu fișierele, semnele de carte,\n"
+"aplicațile, muzica, agenda dumneavoastră și multe altele!"
+
+#: ../Do/src/Do.Core/Controller.cs:1019
+msgid "Visit Homepage"
+msgstr "Vizitaţi pagina personală"
+
+#: ../Do/src/Do.Core/DoAddinInstaller.cs:37
+msgid "Installation cancelled"
+msgstr "Instalare anulată"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/CommunityAddinClassifier.cs:36
+msgid "Community Plugins"
+msgstr "Extensii de la comunitate"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/GreedyAddinClassifier.cs:34
+msgid "All Plugins"
+msgstr "Toate extensiile"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/OfficialAddinClassifier.cs:35
+msgid "Official Plugins"
+msgstr "Extensii oficiale"
+
+#: ../Do/src/Do.UI/ColorConfigurationWidget.cs:107
+msgid "Appearance"
+msgstr "Aspect"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:159
+msgid "Some of the required add-ins were not found"
+msgstr "O parte din modulele obligatorii nu au fost găsite"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:172
+msgid "Installation failed"
+msgstr "Instalare eșuată"
+
+#: ../Do/src/Do.UI/GeneralPreferencesWidget.cs:43
+msgid "General"
+msgstr "General"
+
+#: ../Do/src/Do.UI/KeybindingsPreferencesWidget.cs:42
+msgid "Keyboard"
+msgstr "Tastatură"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:49
+msgid "Action"
+msgstr "Acțiune"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:56
+msgid "Shortcut"
+msgstr "Scurtătură"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:73
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:101
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:140
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:143
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:159
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: ../Do/src/Do.UI/ManagePluginsPreferencesWidget.cs:56
+msgid "Plugins"
+msgstr "Extensii"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:32
+msgid "<b><span size=\"large\">There was an error installing the selected"
+msgstr ""
+"<b><span size=\"large\">S-a produs o eroare la instalarea celor selectate"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:36
+msgid "plugin"
+msgstr "modul"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:37
+msgid "plugins"
+msgstr "module"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:43
+msgid "and "
+msgstr "și "
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:47
+msgid " is not a valid plugin file."
+msgstr " nu este un fișier de extensie valid."
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:49
+msgid " are not valid plugin files."
+msgstr " nu sunt fișiere de extensie valide."
+
+#: ../Do/src/Do.Universe/AboutItem.cs:31
+msgid "About Do"
+msgstr "Despre Do"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:35
+msgid "About GNOME Do"
+msgstr "Despre GNOME Do"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:33
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:53
+msgid "Clear Learning"
+msgstr "Curăță învățarea"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:37
+msgid "Resets Do's learned usage data."
+msgstr "Resetează statisticile de utilizare ale Do"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:54
+msgid "Are you sure you want to clear Do's learned usage data?"
+msgstr "Sigur doriți să eliminați datele statistice legate de utilizarea Do?"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:36
+msgid "Donate"
+msgstr "Donați"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:40
+msgid "Support GNOME Do development!"
+msgstr "Susține dezvoltarea GNOME Do!"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:49
+msgid "Internal GNOME Do Items"
+msgstr "Elemente GNOME Do interne"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:53
+msgid "Special items relevant to the inner-workings of GNOME Do."
+msgstr "Elemente speciale relevante mecanismelor interne din GNOME Do."
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:60
+msgid "GNOME Do Item Sources"
+msgstr "Sursele elementelor GNOME Do"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:64
+msgid "Item Sources providing all items GNOME Do knows about."
+msgstr ""
+"Sursele elementelor ce oferă toate elementele despre care știe GNOME Do."
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:31
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:35
+msgid "Adjust Do's settings, manage plugins, etc."
+msgstr "Modificare preferințe Do, administrare module, etc."
+
+#: ../Do/src/Do.Universe/QuitItem.cs:30
+msgid "Quit"
+msgstr "Ieșire"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:34
+msgid "Quit GNOME Do - come back soon!"
+msgstr "Ieșire GNOME Do - întoarce-te în curând!"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:63
+msgid "Selected text"
+msgstr "Text selectat"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:67
+msgid "Currently selected text."
+msgstr "Textul selectat curent."
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:42
+msgid "No name"
+msgstr "Fără nume"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:43
+msgid "No description."
+msgstr "Fără descriere."
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/AddressContactDetailItem.cs:34
+msgid "Address"
+msgstr "Adresă"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:34
+msgid "Work Phone"
+msgstr "Telefon birou"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:35
+msgid "Home Phone"
+msgstr "Telefon la domiciliu"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:36
+msgid "Mobile Phone"
+msgstr "Telefon mobil"
+
+#: ../data/gnome-do.desktop.in.h:1
+msgid ""
+"Do things as quickly as possible (but no quicker) with your files, "
+"bookmarks, applications, music, contacts, and more!"
+msgstr ""
+"Faceţi lucrurile cât se poate de rapid (dar nu mai repede) cu fişierele, "
+"semnele de carte, muzica, contactele, etc!"
+
+#: ../data/gnome-do.schemas.in.h:1
+msgid "Always show results window."
+msgstr "Arată mereu fereastra de rezultate."
+
+#: ../data/gnome-do.schemas.in.h:2
+msgid ""
+"Changes the appearence of Do. Valid entries are Classic, Glass Frame, and "
+"Mini."
+msgstr ""
+"Schimbă aspectul Do. Intrările valide sunt „Clasic”, „Glass Frame” și „Mini”."
+
+#: ../data/gnome-do.schemas.in.h:3
+msgid "Do UI theme"
+msgstr "Temă interfață Do"
+
+#: ../data/gnome-do.schemas.in.h:4
+msgid "Do summon keybinding."
+msgstr "Combinație de taste pentru apelul Do."
+
+#: ../data/gnome-do.schemas.in.h:5
+msgid "Enable this option to keep Do from popping up as soon as it starts."
+msgstr ""
+"Activați această opțiune pentru a împiedica Do să apară imediat ce pornește."
+
+#: ../data/gnome-do.schemas.in.h:6
+msgid "Hide main window when Do starts."
+msgstr "Ascunde fereastra principală când Do pornește."
+
+#: ../data/gnome-do.schemas.in.h:7
+msgid "Key used to enter text mode."
+msgstr "Tasta folosită pentru a intra in modul text."
+
+#: ../data/gnome-do.schemas.in.h:8
+msgid "Set this to the character that should be used to enter text mode."
+msgstr "Stabiliți caracterul folosit pentru a intra în modul text."
+
+#: ../data/gnome-do.schemas.in.h:9
+msgid "Set this to the key command you would like to use to summon Do."
+msgstr ""
+"Stabiliți combinația de taste pe care doriți să o folosiți pentru a apela Do."
+
+#: ../data/gnome-do.schemas.in.h:10
+msgid "Whether the results window will always show."
+msgstr "Dacă fereastra de rezultate va fi tot timpul afișată."

@@ -1,0 +1,659 @@
+# German translation for gc
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the gc package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gc\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-13 16:36+1000\n"
+"PO-Revision-Date: 2011-05-29 20:56+0000\n"
+"Last-Translator: Michael Konrad <Nephelyn@arcor.de>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-09-26 04:31+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:132
+msgid "Always show results window"
+msgstr "Ergebnisfenster immer zeigen"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:151
+msgid "<b>Selected Theme</b>"
+msgstr "<b>Ausgewähltes Thema</b>"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:166
+msgid ""
+"<b>Your display is not properly configured for theme and animation support. "
+"To use these features, you must enable compositing.</b>"
+msgstr ""
+"<b>Ihr Display ist für die Themen- und Animationsunterstützung nicht richtig "
+"konfiguriert. Um diese Funktionen zu nutzen, müssen Sie die Compositing-"
+"Effekte einschalten.</b>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:52
+msgid "<span size=\"large\"><b>Updated plugins are available!</b></span>"
+msgstr ""
+"<span size=\"large\"><b>Es sind aktualisierte Plugins verfügbar!</b></span>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:128
+msgid "_Install Updates"
+msgstr "_Aktualisierungen installieren"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:49
+msgid "<b>First-launch Behavior</b>"
+msgstr "<b>Erststart-Verhalten</b>"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:69
+msgid "Start GNOME Do at login."
+msgstr "GNOME Do beim Anmelden ausführen"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:81
+msgid "Hide window on first launch (quiet mode)."
+msgstr "Fenster beim Erststart verstecken (stiller Modus)."
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:93
+msgid "Show notification icon"
+msgstr "Benachrichtigungssymbol anzeigen"
+
+#: ../Do/gtk-gui/Do.UI.KeybindingsPreferencesWidget.cs:63
+msgid ""
+"To edit a shortcut, double-click it and type a new one.\n"
+"To restore a shortcut to the default, double click and press Backspace."
+msgstr ""
+"Um eine Verknüpfung zu editieren, doppelklicken und eine neue anlegen.\n"
+"Um eine Verknüpfung auf die Grundeinstellungen zurückzusetzen, doppeklicken "
+"und Backspace drücken."
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:62
+msgid "Show:"
+msgstr "Anzeigen:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:84
+msgid "Search:"
+msgstr "Suchen:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:129
+msgid "_Configure"
+msgstr "_Konfigurieren"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:36
+msgid "PluginConfigurationWindow"
+msgstr "PluginKonfigurationsFenster"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:62
+msgid "<span size=\"large\" weight=\"heavy\">Plugin name here</span>"
+msgstr "<span size=\"large\" weight=\"heavy\">Plugin-Bezeichnung hier</span>"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:85
+msgid "page1"
+msgstr "Seite1"
+
+#: ../Do/gtk-gui/Do.UI.PreferencesWindow.cs:34
+msgid "GNOME Do Preferences"
+msgstr "GNOME Do Voreinstellungen"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:47
+msgid "Background Color:"
+msgstr "Hintergrundfarbe:"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:82
+msgid "_Reset"
+msgstr "_Zurücksetzen"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:101
+msgid "Show window shadow"
+msgstr "Fensterschatten anzeigen"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:113
+msgid "Animate window"
+msgstr "Fenster animieren"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:735
+#, csharp-format
+msgid "No results for: {0}"
+msgstr "Keine Ergebnisse für: {0}"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:746
+msgid "Type To Search"
+msgstr "Zu suchender Typ:"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:341
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:375
+#: ../Do.Interface.Linux/src/Do.Interface/Do.Interface.Widgets/DefaultItems.cs:57
+msgid "Type to begin searching"
+msgstr "Begriff eingeben, um die Suche zu beginnen"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:342
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:376
+msgid "Type to start searching."
+msgstr "Begriff eingeben, um die Suche zu starten"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:89
+msgid "Password"
+msgstr "Passwort"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:111
+msgid "Username"
+msgstr "Benutzername"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:124
+msgid "<i>Verify and save account information</i>"
+msgstr "<i>Überprüfen und Speichern der Zugangsinformationen</i>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:180
+msgid "Don't have an account?"
+msgstr "Haben Sie kein Benutzerkonto?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:77
+msgid "<b><span size=\"x-large\">There's a Do plugin for that!</span></b>"
+msgstr "<b><span size=\"x-large\">Dafür gibt es ein Do-Plugin!</span></b>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:98
+#, csharp-format
+msgid ""
+"A Do plugin for {0} is available for installation. Would you like us to "
+"enable it for you?"
+msgstr ""
+"Ein Do-Plugin für {0} steht zu Installation bereit. Möchten Sie, dass wir es "
+"für Sie aktivieren?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:125
+msgid "Don't ask me about Do plugins again."
+msgstr "Keine Fragen mehr über Do-Plugins stellen."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:172
+msgid "_Install"
+msgstr "_Installieren"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:36
+#, csharp-format
+msgid "Error saving {0}"
+msgstr "Fehler beim Speichern von {0}"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:37
+#, csharp-format
+msgid "Key \"{0}\" not found in keyring"
+msgstr "Schlüssel \"{0}\" nicht im GNOME-Schlüsselbund gefunden"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:38
+msgid "gnome-keyring-daemon could not be reached!"
+msgstr "Dienst für den GNOME-Schlüsselbund konnte nicht erreicht werden!"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:143
+msgid "Icon"
+msgstr "Symbol"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:146
+msgid "Categories"
+msgstr "Kategorien"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:152
+msgid "This application could not be indexed."
+msgstr "Diese Anwendung konnte nicht indiziert werden."
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:181
+msgid "Exec"
+msgstr "Ausführen"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:203
+msgid "OnlyShowIn"
+msgstr "ZeigeNurIn"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:57
+msgid "Applications"
+msgstr "Anwendungen"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:61
+msgid "Finds applications in many locations."
+msgstr "Findet Anwendungen an verschiedenen Orten."
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:82
+#, csharp-format
+msgid "{0} Application Category"
+msgstr "{0} Anwendungskategorie"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:83
+#, csharp-format
+msgid "Applications in the {0} category"
+msgstr "Anwendungen im {0} Bereich"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:46
+msgid "GNOME Special Locations"
+msgstr "Besondere Orte von GNOME"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:51
+msgid "Special locations in GNOME, such as Computer and Network."
+msgstr "Besondere Orte in GNOME wie Rechner oder Netzwerk"
+
+#: ../Do.Platform.Linux/src/Do.Universe/NullApplicationItem.cs:48
+#, csharp-format
+msgid "Error reading {0}."
+msgstr "Fehler beim Lesen von {0}."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:43
+#, csharp-format
+msgid "Sign up for {0}"
+msgstr "Registrieren für {0}"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:44
+msgid "Validating..."
+msgstr "Überprüfen..."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:45
+#, csharp-format
+msgid "Don't have {0}?"
+msgstr "Besitzen Sie nicht {0}?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:46
+msgid "Account validation failed!"
+msgstr "Überprüfung des Benutzerkontos gescheitert!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:47
+msgid "Verify and save account information"
+msgstr "Benutzerkontodaten überprüfen und speichern."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:48
+msgid "Account validation succeeded!"
+msgstr "Überprüfung des Benutzerkontos erfolgreich!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:46
+msgid "What is Do?"
+msgstr "Was sit Do?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:53
+#, csharp-format
+msgid "What does the {0} plugin do?"
+msgstr "Was tut das {0}-Plugin?"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:37
+#: ../Do/src/Do.Core/Controller.cs:146
+msgid "Copy to Clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:41
+msgid "Copy current text to clipboard"
+msgstr "Angezeigten Text in Zwischenablage kopieren"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:35
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/EmailContactDetailItem.cs:34
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:41
+msgid "Compose a new email to a friend."
+msgstr "Neue E-Mail an einen Freund verfassen."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:38
+msgid "Open"
+msgstr "Öffnen"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:42
+msgid "Opens many kinds of items."
+msgstr "Öffnet viele verschiedene Objekte."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:54
+msgid "Open Url"
+msgstr "URL öffnen"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:58
+msgid "Opens bookmarks and manually-typed Urls."
+msgstr "Öffnet Lesezeichen und eingegebene URLs."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:38
+msgid "Open With..."
+msgstr "Öffnen mit..."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:42
+msgid "Opens files in specific applications."
+msgstr "Öffnet Dateien in bestimmten Anwendungen."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:35
+msgid "Reveal"
+msgstr "Zeigen"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:39
+msgid "Reveals a file in the file manager."
+msgstr "Zeigt eine Datei im Datei Manager."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:36
+msgid "Run"
+msgstr "Ausführen"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:40
+msgid "Run an application, script, or other executable."
+msgstr ""
+"Eine Anwendung, ein Skript oder eine andere ausführbare Datei starten"
+
+#: ../Do/src/Do.Core/Controller.cs:109
+msgid ""
+"<b>Docky is no longer a Do theme!</b>\n"
+"It is now available as a stand-alone application. Your GNOME Do theme has "
+"been reset to Classic. Please feel free to change it in Preferences."
+msgstr ""
+"<b>Docky ist nicht länger ein Do-Thema!</b>\n"
+"Es ist jetzt als eingenständige Applikation verfügbar. Ihr GNOME-Do-Thema "
+"wurde auf \"Classic\" zurückgesetzt. Sie können es jederzeit unter "
+"\"Voreinstellungen\" wieder verändern."
+
+#: ../Do/src/Do.Core/Controller.cs:133
+msgid "Summon Do"
+msgstr "Do starten"
+
+#: ../Do/src/Do.Core/Controller.cs:137
+msgid "Summon in Text Mode"
+msgstr "Im Textmodus starten"
+
+#: ../Do/src/Do.Core/Controller.cs:140
+msgid "Enter Text Mode"
+msgstr "In den Textmodus wechseln"
+
+#: ../Do/src/Do.Core/Controller.cs:143
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:56
+msgid "Clear"
+msgstr "Löschen"
+
+#: ../Do/src/Do.Core/Controller.cs:148
+msgid "Paste from Clipboard"
+msgstr "Aus der Zwischenablage einfügen"
+
+#: ../Do/src/Do.Core/Controller.cs:151
+msgid "Previous Pane"
+msgstr "Vorheriger Ausschnitt"
+
+#: ../Do/src/Do.Core/Controller.cs:153
+msgid "Next Pane"
+msgstr "Nächster Ausschnitt"
+
+#: ../Do/src/Do.Core/Controller.cs:156
+msgid "Previous Item"
+msgstr "Voriges Element"
+
+#: ../Do/src/Do.Core/Controller.cs:158
+msgid "Next Item"
+msgstr "Nächstes Element"
+
+#: ../Do/src/Do.Core/Controller.cs:161
+msgid "First Item"
+msgstr "Erstes Element"
+
+#: ../Do/src/Do.Core/Controller.cs:163
+msgid "Last Item"
+msgstr "Letztes Element"
+
+#: ../Do/src/Do.Core/Controller.cs:166
+msgid "Previous 5 Results"
+msgstr "Vorherigen 5 Ergebnis"
+
+#: ../Do/src/Do.Core/Controller.cs:168
+msgid "Next 5 Results"
+msgstr "Nächste 5 Ergebnisse"
+
+#: ../Do/src/Do.Core/Controller.cs:171
+msgid "Step Out of Item"
+msgstr "Aus dem Element herausgehen"
+
+#: ../Do/src/Do.Core/Controller.cs:173
+msgid "Step Into Item"
+msgstr "In das Element hineingehen"
+
+#: ../Do/src/Do.Core/Controller.cs:176
+msgid "Select Multiple Items"
+msgstr "Mehrere Elemente auswählen"
+
+#: ../Do/src/Do.Core/Controller.cs:1006 ../data/gnome-do.desktop.in.h:2
+msgid "GNOME Do"
+msgstr "GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1014
+msgid "Copyright © 2009 GNOME Do Developers"
+msgstr "Urheberrechtlich geschützt © 2009 GNOME Do Entwickler"
+
+#: ../Do/src/Do.Core/Controller.cs:1015
+msgid ""
+"Do things as quickly as possible\n"
+"(but no quicker) with your files, bookmarks,\n"
+"applications, music, contacts, and more!"
+msgstr ""
+"Führe Dinge so schnell wie möglich aus\n"
+"(aber nicht schneller), mit deinen Dateien, Lesezeichen,\n"
+"Anwendungen, Musik, Kontakten und mehr!"
+
+#: ../Do/src/Do.Core/Controller.cs:1019
+msgid "Visit Homepage"
+msgstr "Webseite besuchen"
+
+#: ../Do/src/Do.Core/DoAddinInstaller.cs:37
+msgid "Installation cancelled"
+msgstr "Installation abgebrochen"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/CommunityAddinClassifier.cs:36
+msgid "Community Plugins"
+msgstr "Erweiterungen von der Gemeinschaft"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/GreedyAddinClassifier.cs:34
+msgid "All Plugins"
+msgstr "Alle Erweiterungen"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/OfficialAddinClassifier.cs:35
+msgid "Official Plugins"
+msgstr "Offizielle Erweiterungen"
+
+#: ../Do/src/Do.UI/ColorConfigurationWidget.cs:107
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:159
+msgid "Some of the required add-ins were not found"
+msgstr "Einige der benötigten Add-Ins wurden nicht gefunden"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:172
+msgid "Installation failed"
+msgstr "Installation fehlgeschlagen"
+
+#: ../Do/src/Do.UI/GeneralPreferencesWidget.cs:43
+msgid "General"
+msgstr "Allgemein"
+
+#: ../Do/src/Do.UI/KeybindingsPreferencesWidget.cs:42
+msgid "Keyboard"
+msgstr "Tastatur"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:49
+msgid "Action"
+msgstr "Aktion"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:56
+msgid "Shortcut"
+msgstr "Tastenkombination (Shortcut)"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:73
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:101
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:140
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:143
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:159
+msgid "Disabled"
+msgstr "abgeschaltet"
+
+#: ../Do/src/Do.UI/ManagePluginsPreferencesWidget.cs:56
+msgid "Plugins"
+msgstr "Erweiterungen"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:32
+msgid "<b><span size=\"large\">There was an error installing the selected"
+msgstr ""
+"<b><span size=\"large\">Bei der Installation des ausgewählten Objektes ist "
+"ein Fehler aufgetreten"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:36
+msgid "plugin"
+msgstr "Plugin"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:37
+msgid "plugins"
+msgstr "Plugins"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:43
+msgid "and "
+msgstr "und "
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:47
+msgid " is not a valid plugin file."
+msgstr " ist keine gültige Plugin-Datei."
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:49
+msgid " are not valid plugin files."
+msgstr " sind keine gültigen Plugin-Dateien."
+
+#: ../Do/src/Do.Universe/AboutItem.cs:31
+msgid "About Do"
+msgstr "Über Do"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:35
+msgid "About GNOME Do"
+msgstr "Über GNOME Do"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:33
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:53
+msgid "Clear Learning"
+msgstr "Nutzungsdaten löschen."
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:37
+msgid "Resets Do's learned usage data."
+msgstr "Löscht gesammelte Nutzungsdaten."
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:54
+msgid "Are you sure you want to clear Do's learned usage data?"
+msgstr ""
+"Sind Sie sicher, dass Sie die Nutzungsdaten, die Do gesammelt hat, löschen "
+"wollen?"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:36
+msgid "Donate"
+msgstr "Spenden"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:40
+msgid "Support GNOME Do development!"
+msgstr "Unterstütze die Entwicklung von GNOME Do!"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:49
+msgid "Internal GNOME Do Items"
+msgstr "Interne GNOME Do Elemente"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:53
+msgid "Special items relevant to the inner-workings of GNOME Do."
+msgstr "Spezielle Einträge für GNOME Do-interne Abläufe"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:60
+msgid "GNOME Do Item Sources"
+msgstr "GNOME Do Eintragsquellen"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:64
+msgid "Item Sources providing all items GNOME Do knows about."
+msgstr "Eintragsquellen stellen alle Einträge bereit, die GNOME Do kennt."
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:31
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:35
+msgid "Adjust Do's settings, manage plugins, etc."
+msgstr "Do Einstellungen anpassen, Erweiterungen verwalten etc."
+
+#: ../Do/src/Do.Universe/QuitItem.cs:30
+msgid "Quit"
+msgstr "Beenden"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:34
+msgid "Quit GNOME Do - come back soon!"
+msgstr "Verlasse GNOME Do - komm bald wieder!"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:63
+msgid "Selected text"
+msgstr "Ausgewählter Text"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:67
+msgid "Currently selected text."
+msgstr "Momentan markierter Text."
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:42
+msgid "No name"
+msgstr "Kein Name"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:43
+msgid "No description."
+msgstr "Keine Beschreibung."
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/AddressContactDetailItem.cs:34
+msgid "Address"
+msgstr "Adresse"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:34
+msgid "Work Phone"
+msgstr "Telefon (geschäftlich)"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:35
+msgid "Home Phone"
+msgstr "Telefon (privat)"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:36
+msgid "Mobile Phone"
+msgstr "Mobiltelefon"
+
+#: ../data/gnome-do.desktop.in.h:1
+msgid ""
+"Do things as quickly as possible (but no quicker) with your files, "
+"bookmarks, applications, music, contacts, and more!"
+msgstr ""
+"Dinge so schnell wie möglich (aber nicht schneller) mit deinen Dateien, "
+"Lesezeichen, Anwendungen, Musik, Kontakten und vielem mehr erledigen"
+
+#: ../data/gnome-do.schemas.in.h:1
+msgid "Always show results window."
+msgstr "Ergebnisfenster immer anzeigen."
+
+#: ../data/gnome-do.schemas.in.h:2
+msgid ""
+"Changes the appearence of Do. Valid entries are Classic, Glass Frame, and "
+"Mini."
+msgstr ""
+"Ändert das Erscheinungsbild von Do. Gültige Einträge sind Classic, Glass "
+"Frame, und Mini."
+
+#: ../data/gnome-do.schemas.in.h:3
+msgid "Do UI theme"
+msgstr "Do Benutzeroberflächen-Thema"
+
+#: ../data/gnome-do.schemas.in.h:4
+msgid "Do summon keybinding."
+msgstr "Tastenkombination zum Aufrufen von Do."
+
+#: ../data/gnome-do.schemas.in.h:5
+msgid "Enable this option to keep Do from popping up as soon as it starts."
+msgstr ""
+"Aktivieren sie diese Option, um die Anzeige von Do bei jedem Start zu "
+"verhindern."
+
+#: ../data/gnome-do.schemas.in.h:6
+msgid "Hide main window when Do starts."
+msgstr "Hauptfenster verbergen wenn Do startet."
+
+#: ../data/gnome-do.schemas.in.h:7
+msgid "Key used to enter text mode."
+msgstr "Taste zum Starten des Textmodus."
+
+#: ../data/gnome-do.schemas.in.h:8
+msgid "Set this to the character that should be used to enter text mode."
+msgstr "Legen Sie hier das Zeichen für den Start des Textmodus fest."
+
+#: ../data/gnome-do.schemas.in.h:9
+msgid "Set this to the key command you would like to use to summon Do."
+msgstr ""
+"Legen Sie hier die Tastenkombination fest, mit der Sie Do aufrufen möchten."
+
+#: ../data/gnome-do.schemas.in.h:10
+msgid "Whether the results window will always show."
+msgstr "Ergebnisfenster immer anzeigen."

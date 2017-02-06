@@ -1,0 +1,649 @@
+# Finnish translation for do
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the do package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: do\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-13 16:36+1000\n"
+"PO-Revision-Date: 2012-01-30 16:17+0000\n"
+"Last-Translator: Ville Pilvio <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-01-31 04:42+0000\n"
+"X-Generator: Launchpad (build 14734)\n"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:132
+msgid "Always show results window"
+msgstr "Näytä tulosikkuna aina"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:151
+msgid "<b>Selected Theme</b>"
+msgstr "<b>Valittu teema</b>"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:166
+msgid ""
+"<b>Your display is not properly configured for theme and animation support. "
+"To use these features, you must enable compositing.</b>"
+msgstr ""
+"<b>Teema- ja animointituki vaatii toimiakseen työpöytäkiihdytyksen. Ota "
+"työpöytäkiihdytys käyttöön.</b>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:52
+msgid "<span size=\"large\"><b>Updated plugins are available!</b></span>"
+msgstr ""
+"<span size=\"large\"><b>Liitännäisiin on saatavilla päivityksiä!</b></span>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:128
+msgid "_Install Updates"
+msgstr "_Asenna päivitykset"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:49
+msgid "<b>First-launch Behavior</b>"
+msgstr "<b>Käynnistysasetukset</b>"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:69
+msgid "Start GNOME Do at login."
+msgstr "Käynnistä GNOME Do sisäänkirjauduttaessa."
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:81
+msgid "Hide window on first launch (quiet mode)."
+msgstr "Piilota ikkuna käynnistettäessä (hiljainen tila)."
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:93
+msgid "Show notification icon"
+msgstr "Näytä huomiokuvake"
+
+#: ../Do/gtk-gui/Do.UI.KeybindingsPreferencesWidget.cs:63
+msgid ""
+"To edit a shortcut, double-click it and type a new one.\n"
+"To restore a shortcut to the default, double click and press Backspace."
+msgstr ""
+"Muokkaa pikakuvake tupla-klikkaamalla sitä ja kirjoittamalla uusi komento.\n"
+"Palauta pikakuvakkeen oletus tupla-klikkaamalla sitä ja painamalla peruuta-"
+"näppäintä."
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:62
+msgid "Show:"
+msgstr "Näytä:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:84
+msgid "Search:"
+msgstr "Etsi:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:129
+msgid "_Configure"
+msgstr "_Asetukset"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:36
+msgid "PluginConfigurationWindow"
+msgstr "LiitännäistenAsetusikkuna"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:62
+msgid "<span size=\"large\" weight=\"heavy\">Plugin name here</span>"
+msgstr "<span size=\"large\" weight=\"heavy\">Liitännäisen nimi tähän</span>"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:85
+msgid "page1"
+msgstr "sivu1"
+
+#: ../Do/gtk-gui/Do.UI.PreferencesWindow.cs:34
+msgid "GNOME Do Preferences"
+msgstr "GNOME Do -asetukset"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:47
+msgid "Background Color:"
+msgstr "Taustan väri:"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:82
+msgid "_Reset"
+msgstr "_Nollaa"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:101
+msgid "Show window shadow"
+msgstr "Näytä ikkunan varjot"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:113
+msgid "Animate window"
+msgstr "Animoi ikkuna"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:735
+#, csharp-format
+msgid "No results for: {0}"
+msgstr "Ei tuloksia hakusanalle {0}"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:746
+msgid "Type To Search"
+msgstr "Kirjoita etsiäksesi"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:341
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:375
+#: ../Do.Interface.Linux/src/Do.Interface/Do.Interface.Widgets/DefaultItems.cs:57
+msgid "Type to begin searching"
+msgstr "Kirjoita aloittaaksesi haun"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:342
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:376
+msgid "Type to start searching."
+msgstr "Kirjoita haun käynnistämiseksi."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:89
+msgid "Password"
+msgstr "Salasana"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:111
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:124
+msgid "<i>Verify and save account information</i>"
+msgstr "<i>Tarkista ja tallenna tunnuksesi tiedot</i>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:180
+msgid "Don't have an account?"
+msgstr "Oletko vailla tunnusta?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:77
+msgid "<b><span size=\"x-large\">There's a Do plugin for that!</span></b>"
+msgstr "<b><span size=\"x-large\">Löytyy Do Liitännäinen sille!</span></b>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:98
+#, csharp-format
+msgid ""
+"A Do plugin for {0} is available for installation. Would you like us to "
+"enable it for you?"
+msgstr "Löytyy Asennettava Do Liitännäinen  {0}:lle. Aktivoidaanko se?"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:125
+msgid "Don't ask me about Do plugins again."
+msgstr "Älä kysy Do Liitännäisistä enään."
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:172
+msgid "_Install"
+msgstr "_Asenna"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:36
+#, csharp-format
+msgid "Error saving {0}"
+msgstr "Virhe tallentaessa {0}"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:37
+#, csharp-format
+msgid "Key \"{0}\" not found in keyring"
+msgstr "Avainta \"{0}\" ei lötynyt avainrenkaasta"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:38
+msgid "gnome-keyring-daemon could not be reached!"
+msgstr "gnome-keyring-daemonia ei saatu tavoitettua!"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:143
+msgid "Icon"
+msgstr "Kuvake"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:146
+msgid "Categories"
+msgstr "Luokat"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:152
+msgid "This application could not be indexed."
+msgstr "Sovellusta ei voitu indeksoida."
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:181
+msgid "Exec"
+msgstr "Suorita"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:203
+msgid "OnlyShowIn"
+msgstr "NäytäAinostaan"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:57
+msgid "Applications"
+msgstr "Sovellukset"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:61
+msgid "Finds applications in many locations."
+msgstr "Hakee sovelluksia useista sijainneista."
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:82
+#, csharp-format
+msgid "{0} Application Category"
+msgstr "{0} Sovelluksen luokka"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:83
+#, csharp-format
+msgid "Applications in the {0} category"
+msgstr "Sovellukset luokassa {0}"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:46
+msgid "GNOME Special Locations"
+msgstr "Gnomen erikoissijainnit"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:51
+msgid "Special locations in GNOME, such as Computer and Network."
+msgstr "Erikoissijainnit Gnomessa, kuten Tietokone ja Verkko"
+
+#: ../Do.Platform.Linux/src/Do.Universe/NullApplicationItem.cs:48
+#, csharp-format
+msgid "Error reading {0}."
+msgstr "virhe {0} luettaessa."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:43
+#, csharp-format
+msgid "Sign up for {0}"
+msgstr "Kirjaudu palveluun {0}"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:44
+msgid "Validating..."
+msgstr "Varmennetaan..."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:45
+#, csharp-format
+msgid "Don't have {0}?"
+msgstr "Haluatko aloittaa palvelun {0} käytön?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:46
+msgid "Account validation failed!"
+msgstr "Tunnuksen varmennus epäonnistui!"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:47
+msgid "Verify and save account information"
+msgstr "Todenna ja tallenna tunnuksen tiedot"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:48
+msgid "Account validation succeeded!"
+msgstr "Tunnuksen vahvistus onnistui."
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:46
+msgid "What is Do?"
+msgstr "Mikä Do on?"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:53
+#, csharp-format
+msgid "What does the {0} plugin do?"
+msgstr "Mitä tekee {0} Liitännäinen?"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:37
+#: ../Do/src/Do.Core/Controller.cs:146
+msgid "Copy to Clipboard"
+msgstr "Kopioi leikepöydälle"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:41
+msgid "Copy current text to clipboard"
+msgstr "Kopioi valittu teksti leikepöydälle"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:35
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/EmailContactDetailItem.cs:34
+msgid "Email"
+msgstr "Sähköposti"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:41
+msgid "Compose a new email to a friend."
+msgstr "Kirjoita ystävälle uusi sähköposti."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:38
+msgid "Open"
+msgstr "Avaa"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:42
+msgid "Opens many kinds of items."
+msgstr "Avaa monenlaisia kohteita."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:54
+msgid "Open Url"
+msgstr "Avaa verkko-osoite"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:58
+msgid "Opens bookmarks and manually-typed Urls."
+msgstr "Avaa kirjanmerkit ja selaimeen kirjoitetut verkko-osoitteet"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:38
+msgid "Open With..."
+msgstr "Avaa ohjelmalla..."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:42
+msgid "Opens files in specific applications."
+msgstr "Avaa tiedostoja tietyllä sovelluksella"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:35
+msgid "Reveal"
+msgstr "Näytä"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:39
+msgid "Reveals a file in the file manager."
+msgstr "Näyttää tiedoston tiedostohallinnassa."
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:36
+msgid "Run"
+msgstr "Suorita"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:40
+msgid "Run an application, script, or other executable."
+msgstr "Suorittaa sovelluksen, skriptin tai muun ajettavan kohteen."
+
+#: ../Do/src/Do.Core/Controller.cs:109
+msgid ""
+"<b>Docky is no longer a Do theme!</b>\n"
+"It is now available as a stand-alone application. Your GNOME Do theme has "
+"been reset to Classic. Please feel free to change it in Preferences."
+msgstr ""
+"<b>Docky ei ole enään Do teema!</b>\n"
+"Se on saatavilla erillisenä ohjelmana. Classic GNOME Do teemasi on "
+"palautettu. Se voidaan muuttaa Asetuksista."
+
+#: ../Do/src/Do.Core/Controller.cs:133
+msgid "Summon Do"
+msgstr "Kutsu Do näkyviin"
+
+#: ../Do/src/Do.Core/Controller.cs:137
+msgid "Summon in Text Mode"
+msgstr "Kutsu Do näkyviin tekstitilassa"
+
+#: ../Do/src/Do.Core/Controller.cs:140
+msgid "Enter Text Mode"
+msgstr "Siirry tekstitilaan"
+
+#: ../Do/src/Do.Core/Controller.cs:143
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:56
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#: ../Do/src/Do.Core/Controller.cs:148
+msgid "Paste from Clipboard"
+msgstr "Liitä leikepöydältä"
+
+#: ../Do/src/Do.Core/Controller.cs:151
+msgid "Previous Pane"
+msgstr "Edellinen ruutu"
+
+#: ../Do/src/Do.Core/Controller.cs:153
+msgid "Next Pane"
+msgstr "Seuraava ruutu"
+
+#: ../Do/src/Do.Core/Controller.cs:156
+msgid "Previous Item"
+msgstr "Edellinen kohde"
+
+#: ../Do/src/Do.Core/Controller.cs:158
+msgid "Next Item"
+msgstr "Seuraava kohde"
+
+#: ../Do/src/Do.Core/Controller.cs:161
+msgid "First Item"
+msgstr "Ensimmäinen kohta"
+
+#: ../Do/src/Do.Core/Controller.cs:163
+msgid "Last Item"
+msgstr "Viimeinen kohde"
+
+#: ../Do/src/Do.Core/Controller.cs:166
+msgid "Previous 5 Results"
+msgstr "Viisi edellistä tulosta"
+
+#: ../Do/src/Do.Core/Controller.cs:168
+msgid "Next 5 Results"
+msgstr "Viisi seuraavaa tulosta"
+
+#: ../Do/src/Do.Core/Controller.cs:171
+msgid "Step Out of Item"
+msgstr "Poistu pikakuvakkeesta"
+
+#: ../Do/src/Do.Core/Controller.cs:173
+msgid "Step Into Item"
+msgstr "Astu pikakuvakkeeseen"
+
+#: ../Do/src/Do.Core/Controller.cs:176
+msgid "Select Multiple Items"
+msgstr "Valitse useita kohteita"
+
+#: ../Do/src/Do.Core/Controller.cs:1006 ../data/gnome-do.desktop.in.h:2
+msgid "GNOME Do"
+msgstr "GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1014
+msgid "Copyright © 2009 GNOME Do Developers"
+msgstr "Tekijänoikeudet © 2009 GNOME Do Kehittäjät"
+
+#: ../Do/src/Do.Core/Controller.cs:1015
+msgid ""
+"Do things as quickly as possible\n"
+"(but no quicker) with your files, bookmarks,\n"
+"applications, music, contacts, and more!"
+msgstr ""
+"Tee asioita nopeammin kuin ehdit\n"
+"sanoa hep! Hallitse tiedostojasi, kirjanmerkkejä,\n"
+"sovelluksia, musiikkia, yhteystietoja ja paljon muuta."
+
+#: ../Do/src/Do.Core/Controller.cs:1019
+msgid "Visit Homepage"
+msgstr "Vieraile kotisivustolla"
+
+#: ../Do/src/Do.Core/DoAddinInstaller.cs:37
+msgid "Installation cancelled"
+msgstr "Asennus keskeytettiin"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/CommunityAddinClassifier.cs:36
+msgid "Community Plugins"
+msgstr "Yhteisön liitännäiset"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/GreedyAddinClassifier.cs:34
+msgid "All Plugins"
+msgstr "Kaikki liitännäiset"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/OfficialAddinClassifier.cs:35
+msgid "Official Plugins"
+msgstr "Viralliset liitännäiset"
+
+#: ../Do/src/Do.UI/ColorConfigurationWidget.cs:107
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:159
+msgid "Some of the required add-ins were not found"
+msgstr "Joitain tarvittavia liitännäisiä ei löytynyt"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:172
+msgid "Installation failed"
+msgstr "Asennus epäonnistui"
+
+#: ../Do/src/Do.UI/GeneralPreferencesWidget.cs:43
+msgid "General"
+msgstr "Yleinen"
+
+#: ../Do/src/Do.UI/KeybindingsPreferencesWidget.cs:42
+msgid "Keyboard"
+msgstr "Näppäimistö"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:49
+msgid "Action"
+msgstr "Toiminto"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:56
+msgid "Shortcut"
+msgstr "Pikakuvake"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:73
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:101
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:140
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:143
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:159
+msgid "Disabled"
+msgstr "Poissa käytöstä"
+
+#: ../Do/src/Do.UI/ManagePluginsPreferencesWidget.cs:56
+msgid "Plugins"
+msgstr "Liitännäiset"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:32
+msgid "<b><span size=\"large\">There was an error installing the selected"
+msgstr "<b><span size=\"large\">Virhe asennettaessa valittua"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:36
+msgid "plugin"
+msgstr "liitännäinen"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:37
+msgid "plugins"
+msgstr "liitännäiset"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:43
+msgid "and "
+msgstr "ja "
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:47
+msgid " is not a valid plugin file."
+msgstr " ei ole kelvollinen liitännäistiedosto"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:49
+msgid " are not valid plugin files."
+msgstr " eivät ole sopivia liitännäistiedostoja"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:31
+msgid "About Do"
+msgstr "Tietoja sovelluksesta"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:35
+msgid "About GNOME Do"
+msgstr "Tietoja GNOME Do:sta"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:33
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:53
+msgid "Clear Learning"
+msgstr "Puhdasta oppimista"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:37
+msgid "Resets Do's learned usage data."
+msgstr "Poista Do:n keräämä käyttöhistoria"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:54
+msgid "Are you sure you want to clear Do's learned usage data?"
+msgstr "Haluatko varmasti poistaa Do:n keräämän käyttöhistorian?"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:36
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:40
+msgid "Support GNOME Do development!"
+msgstr "Tue GNOME Do:n kehitystyötä!"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:49
+msgid "Internal GNOME Do Items"
+msgstr "Sisäiset GNOME Do:n kohteet"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:53
+msgid "Special items relevant to the inner-workings of GNOME Do."
+msgstr ""
+"Erikoiskohteet, jotka ovat olennaisia GNOME Do:n sisäisille "
+"toiminnallisuuksille"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:60
+msgid "GNOME Do Item Sources"
+msgstr "GNOME Do:n kohteitten lähteet"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:64
+msgid "Item Sources providing all items GNOME Do knows about."
+msgstr "Kaikkien GNOME Do:n tunnistamien kohteitten lähteet."
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:31
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:35
+msgid "Adjust Do's settings, manage plugins, etc."
+msgstr "Muokkaa Do:n asetuksia, liitännäisiä, jne."
+
+#: ../Do/src/Do.Universe/QuitItem.cs:30
+msgid "Quit"
+msgstr "Sulje"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:34
+msgid "Quit GNOME Do - come back soon!"
+msgstr "Sulje GNOME Do - tule pian takaisin!"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:63
+msgid "Selected text"
+msgstr "Valittu teksti"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:67
+msgid "Currently selected text."
+msgstr "Tällä hetkellä valittu teksti."
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:42
+msgid "No name"
+msgstr "Ei nimeä"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:43
+msgid "No description."
+msgstr "Ei kuvausta."
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/AddressContactDetailItem.cs:34
+msgid "Address"
+msgstr "Osoite"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:34
+msgid "Work Phone"
+msgstr "Työpuhelin"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:35
+msgid "Home Phone"
+msgstr "Kotipuhelin"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:36
+msgid "Mobile Phone"
+msgstr "Matkapuhelin"
+
+#: ../data/gnome-do.desktop.in.h:1
+msgid ""
+"Do things as quickly as possible (but no quicker) with your files, "
+"bookmarks, applications, music, contacts, and more!"
+msgstr ""
+"Suorita tehtäviä tiedostoillasi, kirjanmerkeilläsi, sovelluksillasi, "
+"musiikillasi, yhteystiedoillasi ja paljolla muulla mahdollisimman nopeasti!"
+
+#: ../data/gnome-do.schemas.in.h:1
+msgid "Always show results window."
+msgstr "Näytä aina tulosikkuna."
+
+#: ../data/gnome-do.schemas.in.h:2
+msgid ""
+"Changes the appearence of Do. Valid entries are Classic, Glass Frame, and "
+"Mini."
+msgstr ""
+"Muuttaa Do:n ulkoasua. Kelvolliset arvot ovat klassinen, lasinen kehys ja "
+"mini."
+
+#: ../data/gnome-do.schemas.in.h:3
+msgid "Do UI theme"
+msgstr "Do-käyttöliittymäteema"
+
+#: ../data/gnome-do.schemas.in.h:4
+msgid "Do summon keybinding."
+msgstr "Näppäinkomento, jolla Do kutsutaan näkyviin"
+
+#: ../data/gnome-do.schemas.in.h:5
+msgid "Enable this option to keep Do from popping up as soon as it starts."
+msgstr "Valitse tämä, jos et halua Do:n ilmestyvän esiin sen käynnistyessä."
+
+#: ../data/gnome-do.schemas.in.h:6
+msgid "Hide main window when Do starts."
+msgstr "Piilota pääikkuna kun Do käynnistyy."
+
+#: ../data/gnome-do.schemas.in.h:7
+msgid "Key used to enter text mode."
+msgstr "Näppäin tekstitilaan siirtymiseksi."
+
+#: ../data/gnome-do.schemas.in.h:8
+msgid "Set this to the character that should be used to enter text mode."
+msgstr "Aseta merkki, jolla siirrytään tekstitilaan."
+
+#: ../data/gnome-do.schemas.in.h:9
+msgid "Set this to the key command you would like to use to summon Do."
+msgstr "Aseta komento, jolla Do kutsutaan näkyville."
+
+#: ../data/gnome-do.schemas.in.h:10
+msgid "Whether the results window will always show."
+msgstr "Määrittää, näytetäänkö tulosikkuna aina."

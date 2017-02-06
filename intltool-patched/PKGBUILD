@@ -1,0 +1,39 @@
+# $Id$
+# Maintainer: Eric Bélanger <eric@archlinux.org>
+
+pkgname=intltool
+pkgver=0.51.0
+pkgrel=2
+pkgdesc="The internationalization tool collection"
+arch=('any')
+url="https://edge.launchpad.net/intltool"
+license=('GPL')
+depends=('perl-xml-parser')
+source=(http://launchpad.net/intltool/trunk/${pkgver}/+download/${pkgname}-${pkgver}.tar.gz{,.asc}
+        intltool-update.patch)
+sha1sums=('a0c3bcb99d1bcfc5db70f8d848232a47c47da090'
+          'SKIP'
+          'SKIP')
+validpgpkeys=('9EBD001680E8C8F9FAC61A9BE1A701D4C9DE75B5')
+
+prepare() {
+  cd ${pkgname}-${pkgver}
+  patch -p0 -i "${srcdir}/intltool-update.patch"
+}
+
+build() {
+  cd ${pkgname}-${pkgver}
+  ./configure --prefix=/usr
+  make
+}
+
+check() {
+  cd ${pkgname}-${pkgver}
+  make check
+}
+
+package() {
+  cd ${pkgname}-${pkgver}
+  make DESTDIR="${pkgdir}" install
+  install -D -m644 doc/I18N-HOWTO "${pkgdir}/usr/share/doc/${pkgname}/I18N-HOWTO"
+}

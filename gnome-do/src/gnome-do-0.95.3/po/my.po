@@ -1,0 +1,653 @@
+# Burmese translation for do
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the do package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: do\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-06-13 16:36+1000\n"
+"PO-Revision-Date: 2011-08-28 20:26+0000\n"
+"Last-Translator: Ye Htut Win <Unknown>\n"
+"Language-Team: Burmese <my@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-09-26 04:31+0000\n"
+"X-Generator: Launchpad (build 14012)\n"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:132
+msgid "Always show results window"
+msgstr "ရလဒ် ကို အမြဲပြပါ"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:151
+msgid "<b>Selected Theme</b>"
+msgstr "<b>ရွေးချယ်ထားသော Theme</b>"
+
+#: ../Do/gtk-gui/Do.UI.ColorConfigurationWidget.cs:166
+msgid ""
+"<b>Your display is not properly configured for theme and animation support. "
+"To use these features, you must enable compositing.</b>"
+msgstr ""
+"<b>သင့်  ကွန်ပျူတာဖန်သားပြင် သည် theme နှင့် လှုပ်ရှား ရုပ်ပုံများ "
+"ဖြော်ပြရန် သင့်တင့်လျောက်ပတ်စွာ ပြင်ဆင်ခြင်း မရှိသေးပါ။ ဒီစွမ်းဆောင်မှုကို "
+"ရရှိရန် စီကုံးမှုကို ဖွင့်ပေးပါ။</b>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:52
+msgid "<span size=\"large\"><b>Updated plugins are available!</b></span>"
+msgstr "<span size=\"large\"><b>plugins အသစ်များ  ရရှိနေပါပြီ!</b></span>"
+
+#: ../Do/gtk-gui/Do.UI.DoAddinInstallerDialog.cs:128
+msgid "_Install Updates"
+msgstr "_အသစ်များထည့်သွင်းရန်"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:49
+msgid "<b>First-launch Behavior</b>"
+msgstr "<b>ပထမဆုံး စတင်ဆောင်ရွက်မည့် လုပ်ဆောင်ချက်</b>"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:69
+msgid "Start GNOME Do at login."
+msgstr "GNOME Do ကို စနစ်ထဲ ဝင်လျှင်ဝင်ခြင်း စတင်ရန်"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:81
+msgid "Hide window on first launch (quiet mode)."
+msgstr "ဖွင့်လျှင်ဖွင့်ခြင်း ပရိုဂရမ်ကို ဖျောက်ထားရန်။(quiet mode)"
+
+#: ../Do/gtk-gui/Do.UI.GeneralPreferencesWidget.cs:93
+msgid "Show notification icon"
+msgstr "သတိပေးချက် ပြသရန်"
+
+#: ../Do/gtk-gui/Do.UI.KeybindingsPreferencesWidget.cs:63
+msgid ""
+"To edit a shortcut, double-click it and type a new one.\n"
+"To restore a shortcut to the default, double click and press Backspace."
+msgstr ""
+"ျဖတ္လမ္းအားတည္းျဖတ္ရန္ ၂ခ်က္နွိပ္ပါ။နာမည္အသစ္ေရးပါ။\n"
+"ျဖတ္လမ္းအား စံပံုေသတြင္ ျပန္ထားရန္ ၂ခ်က္နွိပ္ပါ။Backspace ခလုပ္အားနွိပ္ပါ။"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:62
+msgid "Show:"
+msgstr "ပြရန်:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:84
+msgid "Search:"
+msgstr "ရှာရန်:"
+
+#: ../Do/gtk-gui/Do.UI.ManagePluginsPreferencesWidget.cs:129
+msgid "_Configure"
+msgstr "_ပြုပြင်ပြောင်းလဲရန်"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:36
+msgid "PluginConfigurationWindow"
+msgstr "Copy text \t PluginConfigurationWindow"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:62
+msgid "<span size=\"large\" weight=\"heavy\">Plugin name here</span>"
+msgstr "<span size=\"large\" weight=\"heavy\">Plugin အမည် ဤမှာ</span>"
+
+#: ../Do/gtk-gui/Do.UI.PluginConfigurationWindow.cs:85
+msgid "page1"
+msgstr "စာမျက်နှာ ၁"
+
+#: ../Do/gtk-gui/Do.UI.PreferencesWindow.cs:34
+msgid "GNOME Do Preferences"
+msgstr "GNOME Do တြင္ဦးစားေပးေရြးခ်ယ္နုိင္မွု"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:47
+msgid "Background Color:"
+msgstr "နောက်ခံအရောင်:"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:82
+msgid "_Reset"
+msgstr "_မူလအတိုင်းထားရန်"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:101
+msgid "Show window shadow"
+msgstr "ပရိုဂရမ် ဘောင်ကို အရိပ်ဖြင့် ပြရန်"
+
+#: ../Do.Interface.Linux.AnimationBase/gtk-gui/Do.Interface.AnimationBase.AnimationBaseConfigurationWidget.cs:113
+msgid "Animate window"
+msgstr "လွုပ္ရွားမွုရုပ္ပံုပါဝင္ေသာwindow"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:735
+#, csharp-format
+msgid "No results for: {0}"
+msgstr "{0} အတွက်ရဒ်မရှိပါ"
+
+#: ../Do.Interface.Linux.AnimationBase/src/Do.Interface/Do.Interface.AnimationBase/BezelDrawingArea.cs:746
+msgid "Type To Search"
+msgstr "ရှာဖွေရန် ရိုက်ပါ"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:341
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:375
+#: ../Do.Interface.Linux/src/Do.Interface/Do.Interface.Widgets/DefaultItems.cs:57
+msgid "Type to begin searching"
+msgstr "ရွာေဖြဖို့စတင္ရန္စာရုိက္ပါ"
+
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:342
+#: ../Do.Interface.Linux/src/Do.Interface/ClassicInterface/ClassicWindow.cs:376
+msgid "Type to start searching."
+msgstr "စတင္ရွာေဖြရန္စာရုိက္ပါ"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:89
+msgid "Password"
+msgstr "စကားဝှက်"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:111
+msgid "Username"
+msgstr "အသုံးပြုသူအမည်"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:124
+msgid "<i>Verify and save account information</i>"
+msgstr "<i>မိမိအခ်က္အလက္ကို စစ္ေဆးရန္နွင့္သိမ္းဆည္းရန္</i>"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.AbstractLoginWidget.cs:180
+msgid "Don't have an account?"
+msgstr "သင့္တြင္ကိုယ္ပိုင္ေနရာတခုရွိပါသလား။"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:77
+msgid "<b><span size=\"x-large\">There's a Do plugin for that!</span></b>"
+msgstr ""
+"<b><span size=\"x-large\">ထိုေနရာသည္ Doထပ္ေပါင္းတခု ယခု</span></b>အတြက္"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:98
+#, csharp-format
+msgid ""
+"A Do plugin for {0} is available for installation. Would you like us to "
+"enable it for you?"
+msgstr ""
+"{0}တပ္ဆင္ရန္အတြက္ Do ထပ္ေပါင္းတခုရနုိင္ပါျပီ။သင့္အတြက္ က်ြန္ေတာ္တို့အား "
+"ေဆာင္ရြက္ခြင့္ျပုနုိင္ပါသလား။"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:125
+msgid "Don't ask me about Do plugins again."
+msgstr "Do ထပ္ေပါင္းျခင္းမ်ားအတြက္ ထပ္မေမးပါနဲ့ေတာ့။"
+
+#: ../Do.Platform.Linux/gtk-gui/Do.Platform.Linux.PluginAvailableDialog.cs:172
+msgid "_Install"
+msgstr "တပ္ဆင္ျခင္း"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:36
+#, csharp-format
+msgid "Error saving {0}"
+msgstr "{0} ကိုသိမ္းဆည္းျခင္းမွားေနသည္"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:37
+#, csharp-format
+msgid "Key \"{0}\" not found in keyring"
+msgstr "ေသာ့{0}ကို ဝွက္စာမ်ားထားေသာေနရာတြင္မေတြ့ပါ"
+
+#: ../Do.Platform.Linux/src/Do.Platform/Do.Platform.Linux/GnomeKeyringSecurePreferencesService.cs:38
+msgid "gnome-keyring-daemon could not be reached!"
+msgstr "gnome ၏ဝွက္စာမ်ားေမာင္းနွင္ေသာေနရာသို့ မေရာက္ရွိနုိင္ပါ။"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:143
+msgid "Icon"
+msgstr "ရုပ္ပံုသင္ေကတ"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:146
+msgid "Categories"
+msgstr "ကြဲျပားေသာအမ်ိုးအစားမ်ား"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:152
+msgid "This application could not be indexed."
+msgstr "ယခုအသံုးခ်မွုဆိုင္ရာကို အညြွန္းမထားနုိင္ပါ။"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:181
+msgid "Exec"
+msgstr "Exec"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItem.cs:203
+msgid "OnlyShowIn"
+msgstr "ေနရာသာလ်ွင္ျပပါ"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:57
+msgid "Applications"
+msgstr "အသံုးခ်မွုဆိုင္ရာ"
+
+#: ../Do.Platform.Linux/src/Do.Universe/ApplicationItemSource.cs:61
+msgid "Finds applications in many locations."
+msgstr "အသံုးခ်မွုဆိုင္ရာမ်ားကို ေနရာမ်ားစြာတြင္ရွာေဖြျခင္း"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:82
+#, csharp-format
+msgid "{0} Application Category"
+msgstr "{0}အသံုးခ်မွုဆိုင္ရာ အမ်ိုးအစား"
+
+#: ../Do.Platform.Linux/src/Do.Universe/CategoryItem.cs:83
+#, csharp-format
+msgid "Applications in the {0} category"
+msgstr "{0}အမ်ိုးအစားထဲတြင္ရွိေသာ အသံုးခ်နုိင္မွုမ်ား"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:46
+msgid "GNOME Special Locations"
+msgstr "GNOME ၏အထူးေနရာမ်ား"
+
+#: ../Do.Platform.Linux/src/Do.Universe/GNOMESpecialLocationsItemSource.cs:51
+msgid "Special locations in GNOME, such as Computer and Network."
+msgstr "GNOME ထဲမွအထူးေနရာမ်ား။ဥပမာ ကြန္ပ်ူတာနွင့္ကြန္ယက္"
+
+#: ../Do.Platform.Linux/src/Do.Universe/NullApplicationItem.cs:48
+#, csharp-format
+msgid "Error reading {0}."
+msgstr "{0}ကိုမွားယြင္းစြာဖတ္ျခင္း"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:43
+#, csharp-format
+msgid "Sign up for {0}"
+msgstr "{0}အတြက္ပါဝင္ျခင္း"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:44
+msgid "Validating..."
+msgstr "တရားဝင္ျဖစ္ေနေသးျခင္း"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:45
+#, csharp-format
+msgid "Don't have {0}?"
+msgstr "{0}မရွိဘူးလား"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:46
+msgid "Account validation failed!"
+msgstr "ကိုယ္ပိုင္ေနရာတရားဝင္မွုမေအာင္ျမင္ပါ"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:47
+msgid "Verify and save account information"
+msgstr "ကိုယ္ပိုင္ေနရာ၏အခ်က္အလက္ကို စစ္ေဆး၍သိမ္းဆည္းပါ"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/AbstractLoginWidget.cs:48
+msgid "Account validation succeeded!"
+msgstr "ကိုယ္ပိုင္ေနရာ တရားဝင္မွုေအာင္ျမင္သည္"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:46
+msgid "What is Do?"
+msgstr "Do ဆိုတာဘာလဲ"
+
+#: ../Do.Platform.Linux/src/Do.Widgets/PluginAvailableDialog.cs:53
+#, csharp-format
+msgid "What does the {0} plugin do?"
+msgstr "{0}ထပ္ေပါင္းက ဘာလုပ္တာလဲ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:37
+#: ../Do/src/Do.Core/Controller.cs:146
+msgid "Copy to Clipboard"
+msgstr "မွတ္တမ္းတြဲေနရာသို့ကူးယူပါ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/CopyToClipboardAction.cs:41
+msgid "Copy current text to clipboard"
+msgstr "လက္ရွိေရးထားေသာစာကို မွတ္တမ္းတြဲေနရာသို့ကူးယူပါ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:35
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/EmailContactDetailItem.cs:34
+msgid "Email"
+msgstr "ကြန္ယက္စာပို့မွု"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/EmailAction.cs:41
+msgid "Compose a new email to a friend."
+msgstr "သူငယ္ခ်င္းစီသို့ကြန္ယက္စာပို့ရန္အသစ္ေရးျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:38
+msgid "Open"
+msgstr "ဖြင့္ပါ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenAction.cs:42
+msgid "Opens many kinds of items."
+msgstr "မ်ားစြာေသာအမ်ိုးအစားမ်ားကိုဖြင့္ျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:54
+msgid "Open Url"
+msgstr "ကြန္ယက္လိပ္စာဖြင့္ျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenUrlAction.cs:58
+msgid "Opens bookmarks and manually-typed Urls."
+msgstr "ကိုယ္တိုင္ရုိက္သြင္းထားေသာကြန္ယက္လိပ္စာမ်ားနွင့္မွတ္သားမွုမ်ား"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:38
+msgid "Open With..."
+msgstr "ျဖင့္ဖြင့္ပါ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/OpenWithAction.cs:42
+msgid "Opens files in specific applications."
+msgstr "သက္ဆိုင္ရာအသံုးခ်မွုမ်ားတြင္ ဖိုင္မ်ားကိုဖြင့္ပါ"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:35
+msgid "Reveal"
+msgstr "ထုတ္ေဖာ္ျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RevealAction.cs:39
+msgid "Reveals a file in the file manager."
+msgstr "ဖိုင္စီမံမွုတြင္ ဖိုင္တခုအားထုတ္ေဖာ္ျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:36
+msgid "Run"
+msgstr "ေမာင္းနွင္ျခင္း"
+
+#: ../Do.Platform/src/Do.Universe/Do.Universe.Common/RunAction.cs:40
+msgid "Run an application, script, or other executable."
+msgstr ""
+"အသံုးခ်မွုဆိုင္ရာ၊ေရးသားထားမွု (သို့)တျခားအခ်က္တခုခုအားေမာင္းနွင္ျခင္း"
+
+#: ../Do/src/Do.Core/Controller.cs:109
+msgid ""
+"<b>Docky is no longer a Do theme!</b>\n"
+"It is now available as a stand-alone application. Your GNOME Do theme has "
+"been reset to Classic. Please feel free to change it in Preferences."
+msgstr ""
+"<b>Docky သည္ Do ေနာက္ခံအလွနွင့္မသက္ဆိုင္ေတာ့ပါ</b>\n"
+"ယခုကိုယ္ပိုင္ရပ္တည္ေနေသာအသံုးခ်မွုဆိုင္ရာအျဖစ္ရရွိနုိင္သည္။သင္၏ GNOME Do "
+"ေနာက္ခံအလွသည္ပံုစံေဟာင္းသို့ေျပာင္းထားသည္။ေက်းဇူးျပု၍ "
+"လြပ္လပ္စြာစိတ္ျကိုက္ေျပာင္းနုိင္သည္။"
+
+#: ../Do/src/Do.Core/Controller.cs:133
+msgid "Summon Do"
+msgstr "Do အားဆင့္ေခါ္မွု"
+
+#: ../Do/src/Do.Core/Controller.cs:137
+msgid "Summon in Text Mode"
+msgstr "စာသားျဖင့္ဆင့္ေခါ္မွု"
+
+#: ../Do/src/Do.Core/Controller.cs:140
+msgid "Enter Text Mode"
+msgstr "စာသားျဖင့္ေရးသားမွုထဲဝင္ေရာက္ပါ"
+
+#: ../Do/src/Do.Core/Controller.cs:143
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:56
+msgid "Clear"
+msgstr "ရွင္းပါ"
+
+#: ../Do/src/Do.Core/Controller.cs:148
+msgid "Paste from Clipboard"
+msgstr "မွတ္တမ္းတြဲမွကူးယူသည္"
+
+#: ../Do/src/Do.Core/Controller.cs:151
+msgid "Previous Pane"
+msgstr "ယခင္လမ္းေျကာင္း"
+
+#: ../Do/src/Do.Core/Controller.cs:153
+msgid "Next Pane"
+msgstr "ေနာက္လမ္းေျကာင္း"
+
+#: ../Do/src/Do.Core/Controller.cs:156
+msgid "Previous Item"
+msgstr "ယခင္အမ်ိုးအစား"
+
+#: ../Do/src/Do.Core/Controller.cs:158
+msgid "Next Item"
+msgstr "ေနာက္အမ်ိုးအစား"
+
+#: ../Do/src/Do.Core/Controller.cs:161
+msgid "First Item"
+msgstr "ပထမအမ်ိုးအစား"
+
+#: ../Do/src/Do.Core/Controller.cs:163
+msgid "Last Item"
+msgstr "ေနာက္ဆံုးအမ်ိုးအစား"
+
+#: ../Do/src/Do.Core/Controller.cs:166
+msgid "Previous 5 Results"
+msgstr "ယခင္အေျဖ ၅ ခု"
+
+#: ../Do/src/Do.Core/Controller.cs:168
+msgid "Next 5 Results"
+msgstr "ေနာက္အေျဖ ၅ ခု"
+
+#: ../Do/src/Do.Core/Controller.cs:171
+msgid "Step Out of Item"
+msgstr "အမ်ိုးအစားမွထထြက္ခြာျခင္း"
+
+#: ../Do/src/Do.Core/Controller.cs:173
+msgid "Step Into Item"
+msgstr "အမ်ိုးအစားထဲသို့ဝင္ေရာက္ျခင္း"
+
+#: ../Do/src/Do.Core/Controller.cs:176
+msgid "Select Multiple Items"
+msgstr "မ်ိုးစံုေသာအမ်ိုးအစားမ်ားကိုေရြးပါ"
+
+#: ../Do/src/Do.Core/Controller.cs:1006 ../data/gnome-do.desktop.in.h:2
+msgid "GNOME Do"
+msgstr "GNOME Do"
+
+#: ../Do/src/Do.Core/Controller.cs:1014
+msgid "Copyright © 2009 GNOME Do Developers"
+msgstr "မွုပိုင္ခြင့္ကို၂၀၀၉တြင္ GNOME Do တည္ေဆာက္သူမ်ားရရွိ"
+
+#: ../Do/src/Do.Core/Controller.cs:1015
+msgid ""
+"Do things as quickly as possible\n"
+"(but no quicker) with your files, bookmarks,\n"
+"applications, music, contacts, and more!"
+msgstr ""
+"ျမန္နုိင္သမွ်ျမန္ျမန္လုပ္ပါ\n"
+"(သိပ္မျမန္ပါနွင့္) စာရြက္စာတမ္းနွင့္ မွတ္သားထားမွုမ်ား\n"
+"အသံုးခ်မွုဆိုင္ရာ၊ဂီတ၊ဆက္သြယ္မွုမ်ားနွင့္ အျခားအရာ"
+
+#: ../Do/src/Do.Core/Controller.cs:1019
+msgid "Visit Homepage"
+msgstr "ယခုသံုးေနေသာအရာ၏ကြန္ယက္သို့အလည္သြားျခင္း"
+
+#: ../Do/src/Do.Core/DoAddinInstaller.cs:37
+msgid "Installation cancelled"
+msgstr "တပ္ဆင္မွုျငင္းပယ္ခဲ့သည္"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/CommunityAddinClassifier.cs:36
+msgid "Community Plugins"
+msgstr "အဖြဲ့အစည္းဆိုင္ရာ ထပ္ေပါင္းမွုမ်ား"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/GreedyAddinClassifier.cs:34
+msgid "All Plugins"
+msgstr "အားလံုးေသာထပ္ေပါင္းမွုမ်ား"
+
+#: ../Do/src/Do.Core/Do.Core.Addins/OfficialAddinClassifier.cs:35
+msgid "Official Plugins"
+msgstr "တရားဝင္ ထပ္ေပါင္းမွုမ်ား"
+
+#: ../Do/src/Do.UI/ColorConfigurationWidget.cs:107
+msgid "Appearance"
+msgstr "အျမင္အလွ"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:159
+msgid "Some of the required add-ins were not found"
+msgstr "တခ်ို့ေသာလိုအပ္သည့္ထပ္ေပါင္းထည့္မွုမ်ားမေတြ့ရ"
+
+#: ../Do/src/Do.UI/DoAddinInstallerDialog.cs:172
+msgid "Installation failed"
+msgstr "တပ္ဆင္မွုမေအာင္ျမင္ပါ"
+
+#: ../Do/src/Do.UI/GeneralPreferencesWidget.cs:43
+msgid "General"
+msgstr "ေယဘံုရ"
+
+#: ../Do/src/Do.UI/KeybindingsPreferencesWidget.cs:42
+msgid "Keyboard"
+msgstr "လက္နွိပ္ကြက္"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:49
+msgid "Action"
+msgstr "လှုပ်ရှားမှု"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:56
+msgid "Shortcut"
+msgstr "ျဖတ္လမ္း"
+
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:73
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:101
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:140
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:143
+#: ../Do/src/Do.UI/KeybindingTreeView.cs:159
+msgid "Disabled"
+msgstr "မေဆာင္ရြက္နုိင္ပါ"
+
+#: ../Do/src/Do.UI/ManagePluginsPreferencesWidget.cs:56
+msgid "Plugins"
+msgstr "ထပ္ေပါင္းမွုမ်ား"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:32
+msgid "<b><span size=\"large\">There was an error installing the selected"
+msgstr "<b><span size=\"large\">ေရြးခ်ယ္ထားေသာအရာမွတပ္ဆင္ျခင္းအမွားျဖစ္ေနသည္"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:36
+msgid "plugin"
+msgstr "ထပ္ေပါင္းမွု"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:37
+msgid "plugins"
+msgstr "ထပ္ေပါင္းမွုမ်ား"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:43
+msgid "and "
+msgstr "နွင့္ "
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:47
+msgid " is not a valid plugin file."
+msgstr " တရားဝင္သက္တမ္းမရွိေသာထပ္ေပါင္းဖိုင္တခု"
+
+#: ../Do/src/Do.UI/PluginErrorDialog.cs:49
+msgid " are not valid plugin files."
+msgstr " တရားဝင္သက္တမ္းမရွိေသာထပ္ေပါင္းဖိုင္မ်ား"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:31
+msgid "About Do"
+msgstr "Doအေျကာင္း"
+
+#: ../Do/src/Do.Universe/AboutItem.cs:35
+msgid "About GNOME Do"
+msgstr "GNOME Doအေျကာင္း"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:33
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:53
+msgid "Clear Learning"
+msgstr "ရွင္းလင္းေသာသင္ျကားမွု"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:37
+msgid "Resets Do's learned usage data."
+msgstr "Do တြင္ေလ့လာခဲ့ေသာအခ်က္အလက္ကိုပံုမွန္ျပန္ထားမွုမ်ား"
+
+#: ../Do/src/Do.Universe/ClearLearningItem.cs:54
+msgid "Are you sure you want to clear Do's learned usage data?"
+msgstr "Do တြင္သင္ေလ့လာခဲ့ေသာအခ်က္အလက္မ်ားကို ရွင္းခဲ့ရန္ေသခ်ာျပီလား"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:36
+msgid "Donate"
+msgstr "လွူဒါန္းပါ"
+
+#: ../Do/src/Do.Universe/DonateItem.cs:40
+msgid "Support GNOME Do development!"
+msgstr "GNOME Do ဖြံ့ျဖိုးေရးကိုေထာက္ပံ့ပါ"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:49
+msgid "Internal GNOME Do Items"
+msgstr "GNOME Do ၏အတြင္းပိုင္းအမ်ိုးအစားမ်ား"
+
+#: ../Do/src/Do.Universe/InternalItemSource.cs:53
+msgid "Special items relevant to the inner-workings of GNOME Do."
+msgstr "GNOME Do ၏အတြင္းပိုင္းလုပ္ေဆာင္မွုနွင့္သက္ဆိုင္ေသာအထူးအမ်ိုးအစားမ်ား"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:60
+msgid "GNOME Do Item Sources"
+msgstr "GNOME Do ၏အမ်ိုးအစား ရင္းျမစ္မ်ား"
+
+#: ../Do/src/Do.Universe/ItemSourceItemSource.cs:64
+msgid "Item Sources providing all items GNOME Do knows about."
+msgstr ""
+"GNOME Do တြင္အသံုးျပုေသာအမ်ိုးအစားအားလံုးအတြက္ေထာက္ပံ့ေသာအရင္းအျမစ္မ်ား"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:31
+msgid "Preferences"
+msgstr "ဦးစားေပးေရြးခ်ယ္မွု"
+
+#: ../Do/src/Do.Universe/PreferencesItem.cs:35
+msgid "Adjust Do's settings, manage plugins, etc."
+msgstr "Do ၏အျပင္အဆင္မ်ား၊ထပ္ေပါင္းမွုမ်ား စသည္တို့အား ထိန္းညိွရန္"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:30
+msgid "Quit"
+msgstr "လက္ရွိအပိုင္းမွထြက္သည္"
+
+#: ../Do/src/Do.Universe/QuitItem.cs:34
+msgid "Quit GNOME Do - come back soon!"
+msgstr "GNOME Do မွထြက္၍ မျကာမွီျပန္လာမည္။"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:63
+msgid "Selected text"
+msgstr "ေရြးခ်ယ္ထားေသာစာလံုး"
+
+#: ../Do/src/Do.Universe/SelectedTextItem.cs:67
+msgid "Currently selected text."
+msgstr "ယခုလက္ရွိေရြးထားေသာစာလံုး"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:42
+msgid "No name"
+msgstr "အမည္မေပးရေသး"
+
+#: ../Do.Universe/src/Do.Universe/Element.cs:43
+msgid "No description."
+msgstr "ေဖာ္ျပမွုမရွိေသးျခင္း"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/AddressContactDetailItem.cs:34
+msgid "Address"
+msgstr "ဖြင့္လို့သည့္လိပ္စာ"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:34
+msgid "Work Phone"
+msgstr "အလုပ္မွဖုန္း"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:35
+msgid "Home Phone"
+msgstr "အိမ္ဖုန္း"
+
+#: ../Do.Universe/src/Do.Universe/Do.Universe.Common/PhoneContactDetailItem.cs:36
+msgid "Mobile Phone"
+msgstr "ေရြ့လ်ားဖုန္း"
+
+#: ../data/gnome-do.desktop.in.h:1
+msgid ""
+"Do things as quickly as possible (but no quicker) with your files, "
+"bookmarks, applications, music, contacts, and more!"
+msgstr ""
+"ျမန္နုိင္သမွ်ျမန္ေအာင္ေဆာင္ရြက္ပါ။(သို့ေသာ္ မျမန္ပါနွင့္) သင့္၏ "
+"ဖိုင္မ်ား၊မွတ္တမ္းမ်ား၊ေဆာင္ရြက္မွုဆိုင္ရာမ်ား၊ေတးဂီတမ်ား၊ဆက္သြယ္ရန္မ်ားနွင့္"
+"အျခားအရာမ်ားအတြက္"
+
+#: ../data/gnome-do.schemas.in.h:1
+msgid "Always show results window."
+msgstr "အျမဲတမ္းအေျဖမ်ားကိုေဖာ္ျပပါ"
+
+#: ../data/gnome-do.schemas.in.h:2
+msgid ""
+"Changes the appearence of Do. Valid entries are Classic, Glass Frame, and "
+"Mini."
+msgstr ""
+"Do ၏အသြင္အျပင္ကိုေျပာင္းလဲပါ။သက္တမ္းရွိေသးေသာ "
+"ဂႏၱဝင္ပံုစံ၊မွန္မ်က္နွာျပင္ပံုစံ နွင့္ ပံုစံေသး။"
+
+#: ../data/gnome-do.schemas.in.h:3
+msgid "Do UI theme"
+msgstr "Do UI အသြင္အျပင္"
+
+#: ../data/gnome-do.schemas.in.h:4
+msgid "Do summon keybinding."
+msgstr "Do အတြက္လက္နွိပ္ကြက္မွအျမန္ဝင္နုိင္မွုမ်ားစုစည္းထား"
+
+#: ../data/gnome-do.schemas.in.h:5
+msgid "Enable this option to keep Do from popping up as soon as it starts."
+msgstr "စဖြင့္သည္နွင့္ Do ပြင့္လာေစရန္ယခု ခ်ိန္ကိုက္ထားမွုျဖင့္ေဆာင္ရြက္သည္။"
+
+#: ../data/gnome-do.schemas.in.h:6
+msgid "Hide main window when Do starts."
+msgstr "Do စပြင့္ခ်ိန္တြင္ အဓိက window ကိုဖြက္ထားသည္။"
+
+#: ../data/gnome-do.schemas.in.h:7
+msgid "Key used to enter text mode."
+msgstr "စာလံုးျဖင့္ေရးေသာေနရာသို့ဝင္ေနက်ေသာ့"
+
+#: ../data/gnome-do.schemas.in.h:8
+msgid "Set this to the character that should be used to enter text mode."
+msgstr "စာလံုးျဖင့္ေရးသားေသာေနရာတြင္သံုးရန္ ဝိေသသအျဖစ္ ထားသည္။"
+
+#: ../data/gnome-do.schemas.in.h:9
+msgid "Set this to the key command you would like to use to summon Do."
+msgstr "သင့္အေနျဖင့္ Do အစုအေပါင္းတြင္သံုးရန္ အမိန့္ေပးေသာ့ခ်က္အျဖစ္ထားသည္။"
+
+#: ../data/gnome-do.schemas.in.h:10
+msgid "Whether the results window will always show."
+msgstr "အေျဖမ်ားကိုအျမဲတမ္းေဖာ္ျပပါမည္။"

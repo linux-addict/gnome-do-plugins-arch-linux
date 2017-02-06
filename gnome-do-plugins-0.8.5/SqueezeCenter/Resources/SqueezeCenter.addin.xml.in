@@ -1,0 +1,40 @@
+<Addin
+	id="SqueezeCenter"
+	namespace="Do"
+	version="1.3"
+	name="SqueezeCenter"
+	description="Control Logitech Squeezebox and Transport audio players."
+	author="Anders Thomsen"
+	category="Community"
+	defaultEnabled="false"
+	>
+
+	<Runtime>
+		<Import assembly="SqueezeCenter.dll"/>
+	</Runtime>
+
+	<Localizer type="Gettext" catalog="gnome-do-plugins" location="@expanded_datadir@/locale" />
+
+	<Dependencies>
+		<Addin id="Universe" version="1.0" />
+	</Dependencies>
+
+	<!-- Extensions included in this assembly -->
+	<Extension path="/Do/Action">
+		<Action type="SqueezeCenter.Enqueue" />
+		<Action type="SqueezeCenter.Play" />
+		<Action type="SqueezeCenter.PlayerCommands.TurnOn" />
+		<Action type="SqueezeCenter.PlayerCommands.TurnOff" />
+		<Action type="SqueezeCenter.PlayerCommands.Pause" />
+		<Action type="SqueezeCenter.PlayerCommands.Play" />
+		<Action type="SqueezeCenter.PlayerCommands.Sync" />
+		<Action type="SqueezeCenter.PlayerCommands.Unsync" />
+		<Action type="SqueezeCenter.PlayerCommands.Prev" />
+		<Action type="SqueezeCenter.PlayerCommands.Next" />
+	</Extension>
+
+	<Extension path="/Do/ItemSource">
+		<ItemSource type="SqueezeCenter.ItemSource" />
+	</Extension>
+
+</Addin>
