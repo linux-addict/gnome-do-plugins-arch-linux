@@ -10,3 +10,13 @@ diff -Naur gnome-do-0.95.1.orig/Do/src/Do.UI/PluginNodeView.cs gnome-do-0.95.1/D
  
  			cell = new Gtk.CellRendererText ();
  			(cell as CellRendererText).WrapWidth = WrapWidth;
+--- gnome-do-0.95.1.orig/Do/src/Do.Core/PluginManager.cs	2017-02-06 11:47:45.286983000 +0000
++++ gnome-do-0.95.1.orig/Do/src/Do.CorePluginManager.cs	2017-02-06 12:02:35.300384734 +0000
+@@ -359,6 +359,7 @@
+ 		
+ 		static string AddinIdWithoutVersion (string id)
+ 		{
++			if (!id.Contains(',')) return id;
+ 			return id.Substring (0, id.IndexOf (','));
+ 		}
+ 	}

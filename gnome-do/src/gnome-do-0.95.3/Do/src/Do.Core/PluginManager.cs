@@ -359,6 +359,7 @@ namespace Do.Core
 		
 		static string AddinIdWithoutVersion (string id)
 		{
+			if (!id.Contains(',')) return id;
 			return id.Substring (0, id.IndexOf (','));
 		}
 	}
